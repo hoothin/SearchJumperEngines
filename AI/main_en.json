@@ -42,7 +42,7 @@
       {
         "description": "Search the world's information with Phind's AI answer engine. Get the answer you're looking for in seconds instead of hours.",
         "name": "phind",
-        "url": "https://www.phind.com/search?q=1"
+        "url": "https://www.phind.com/search?q=%s"
       }
     ],
     "type": "Common"
@@ -408,6 +408,67 @@
     "type": "AI Article"
   },
   {
+    "type": "AI Audio",
+    "icon": "headphones",
+    "sites": [
+      {
+        "name": "Papercup",
+        "url": "https://www.papercup.com/",
+        "description": "Lifelike AI voices, perfected by real translators"
+      },
+      {
+        "name": "Mubert",
+        "url": "https://mubert.com/",
+        "description": "The new royalty-free music ecosystem for content creators, brands and developers 🔥 Come See How Our High-Quality Music Can Elevate Your Content ⏩"
+      },
+      {
+        "name": "Murf AI",
+        "url": "https://murf.ai/",
+        "icon": "https://assets-global.website-files.com/6215d56ae85caa0a3026a433/6241d0ccef69062a2cd3986f_Murf-logo-32.ico",
+        "description": "Go from text to speech with a versatile AI voice generator"
+      },
+      {
+        "name": "LALAL.AI",
+        "url": "https://www.lalal.ai/",
+        "description": "Extract vocal, accompaniment and various instruments from any audio and video"
+      },
+      {
+        "name": "Plaud",
+        "url": "https://plaud.ai/",
+        "description": "Al voice recorder powered by ChatPT, capturing meetings, iPhone calls, and voice memos with ease."
+      },
+      {
+        "name": "AIVA",
+        "url": "https://www.aiva.ai/",
+        "icon": "https://www.aiva.ai/assets/img/favicon.ico",
+        "description": "AI music generation assistant"
+      },
+      {
+        "name": "Mubert TTM",
+        "url": "https://huggingface.co/spaces/OneAfterlife/MubertTTM",
+        "description": "Mubert Text to Music"
+      },
+      {
+        "name": "网易天音",
+        "url": "https://tianyin.music.163.com/#/",
+        "icon": "https://s7.music.126.net/6369f9ec78c25c1818ccfc08/img/favicon_021f7155.ico",
+        "description": "AI music creation tools by NetEase."
+      },
+      {
+        "name": "Uberduck",
+        "url": "https://www.uberduck.ai/",
+        "icon": "https://assets-global.website-files.com/64a1b8b52c90dcbcdf097075/64a1bb7f6265165d6dd941a5_Logo%20-%20upscale-1.png",
+        "description": "Generate high-quality voices by synthesizing your text with Uberduck's realistic voices or your own custom voices."
+      },
+      {
+        "name": "MusicLM",
+        "url": "https://google-research.github.io/seanet/musiclm/examples/",
+        "icon": "https://google.com/favicon.ico",
+        "description": "Generating Music From Text by Google"
+      }
+    ]
+  },
+  {
     "icon": "screwdriver-wrench",
     "sites": [
       {
@@ -474,66 +535,5 @@
     "icon": "graduation-cap",
     "sites": [],
     "type": "AI Tutorials"
-  },
-  {
-    "type": "AI Audio",
-    "icon": "headphones",
-    "sites": [
-      {
-        "name": "Papercup",
-        "url": "https://www.papercup.com/",
-        "description": "Lifelike AI voices, perfected by real translators"
-      },
-      {
-        "name": "Mubert",
-        "url": "https://mubert.com/",
-        "description": "The new royalty-free music ecosystem for content creators, brands and developers 🔥 Come See How Our High-Quality Music Can Elevate Your Content ⏩"
-      },
-      {
-        "name": "Murf AI",
-        "url": "https://murf.ai/",
-        "icon": "https://assets-global.website-files.com/6215d56ae85caa0a3026a433/6241d0ccef69062a2cd3986f_Murf-logo-32.ico",
-        "description": "Go from text to speech with a versatile AI voice generator"
-      },
-      {
-        "name": "LALAL.AI",
-        "url": "https://www.lalal.ai/",
-        "description": "Extract vocal, accompaniment and various instruments from any audio and video"
-      },
-      {
-        "name": "Plaud",
-        "url": "https://plaud.ai/",
-        "description": "Al voice recorder powered by ChatPT, capturing meetings, iPhone calls, and voice memos with ease."
-      },
-      {
-        "name": "AIVA",
-        "url": "https://www.aiva.ai/",
-        "icon": "https://www.aiva.ai/assets/img/favicon.ico",
-        "description": "AI music generation assistant"
-      },
-      {
-        "name": "Mubert TTM",
-        "url": "https://huggingface.co/spaces/OneAfterlife/MubertTTM",
-        "description": "Mubert Text to Music"
-      },
-      {
-        "name": "网易天音",
-        "url": "https://tianyin.music.163.com/#/",
-        "icon": "https://s7.music.126.net/6369f9ec78c25c1818ccfc08/img/favicon_021f7155.ico",
-        "description": "AI music creation tools by NetEase."
-      },
-      {
-        "name": "Uberduck",
-        "url": "https://www.uberduck.ai/",
-        "icon": "https://assets-global.website-files.com/64a1b8b52c90dcbcdf097075/64a1bb7f6265165d6dd941a5_Logo%20-%20upscale-1.png",
-        "description": "Generate high-quality voices by synthesizing your text with Uberduck's realistic voices or your own custom voices."
-      },
-      {
-        "name": "MusicLM",
-        "url": "https://google-research.github.io/seanet/musiclm/examples/",
-        "icon": "https://google.com/favicon.ico",
-        "description": "Generating Music From Text by Google"
-      }
-    ]
   }
 ]
