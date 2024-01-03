@@ -1,2 +1,2 @@
 # SearchJumperEngines
-Engine collections
+Engine collections for SearchJumper
