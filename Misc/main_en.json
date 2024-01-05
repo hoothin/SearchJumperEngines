@@ -196,7 +196,7 @@
      "sites": [
        {
          "name": "Backdata",
-         "url": "https://backdata.net/?search=%s",
+         "url": "https://backdata.net/#p{#search=%s&click(#search-btn)}",
          "icon": "https://backdata.net/imgs/icons/android-chrome-192x192.png",
          "description": "Backdata is a search engine that focuses on user experience and performance. Here you can browse and find official websites, information in various industries and fields, including IT technology, medical Q&A, legal Q&A, accounting, Chinese studies, history and culture etc. At present, there is often a lack of some specific information, such as names of people, company names, books, movies, etc., but overall the data of various industries is constantly increasing."
        },

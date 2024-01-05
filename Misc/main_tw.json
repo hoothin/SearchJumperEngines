@@ -196,7 +196,7 @@
     "sites": [
       {
         "name": "Backdata",
-        "url": "https://backdata.net/?search=%s",
+        "url": "https://backdata.net/#p{#search=%s&click(#search-btn)}",
         "icon": "https://backdata.net/imgs/icons/android-chrome-192x192.png",
         "description": "Backdata 是一個注重用戶體驗和性能的搜索引擎。您可以在這裡瀏覽和查找官方網站，各行業各領域的信息，包括IT技術，醫療問答，法律問答，會計，國學，歷史文化等。 目前經常會缺乏一些具體的信息，比如人名，公司名，書籍，電影等，但是整體上各行業的數據是在不斷地增加中。"
       },

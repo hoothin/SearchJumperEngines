@@ -196,7 +196,7 @@
     "sites": [
       {
         "name": "Backdata",
-        "url": "https://backdata.net/?search=%s",
+        "url": "https://backdata.net/#p{#search=%s&click(#search-btn)}",
         "icon": "https://backdata.net/imgs/icons/android-chrome-192x192.png",
         "description": "Backdata 是一个注重用户体验和性能的搜索引擎。您可以在这里浏览和查找官方网站，各行业各领域的信息，包括IT技术，医疗问答，法律问答，会计，国学，历史文化等。 目前经常会缺乏一些具体的信息，比如人名，公司名，书籍，电影等，但是整体上各行业的数据是在不断地增加中。"
       },
