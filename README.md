@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/badge/License-MIT-red.svg)
 
-**Search engine collections for 🔍[SearchJumper](https://search.hoothin.com/ "搜索酱 搜尋醬").**
+**Over 6000 search engines and resource URLs collections for 🔍[SearchJumper](https://search.hoothin.com/ "搜索酱 搜尋醬").**
 
 + [🤖AI](AI)
   - [English](https://search.hoothin.com/set/ai_en.html)
@@ -20,4 +20,4 @@
 
 Feel free to enter your website URL. It's also fine if the purpose is for promotion.
 
-歡迎隨意填入您的網站網址。 即便是為了推廣促銷也沒問題。
+歡迎隨意填入您的網站網址。 即便是為了推廣促銷也沒有任何問題。
