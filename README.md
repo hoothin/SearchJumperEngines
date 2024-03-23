@@ -18,6 +18,6 @@
   - [正體中文](https://search.hoothin.com/set/misc_tw.html)
 + [Single](Single)
 
-Feel free to enter your website URL. It's also fine if the purpose is for promotion.
+Feel free to submit your website through pull requests. It's also fine if the purpose is for promotion.
 
-歡迎隨意填入您的網站網址。 即便是為了推廣促銷也沒有任何問題。
+歡迎隨意 PR 填入您的網站網址。 即便是為了推廣促銷也沒有任何問題。
