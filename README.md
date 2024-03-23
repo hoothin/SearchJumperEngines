@@ -2,7 +2,21 @@
 
 ![license](https://img.shields.io/badge/License-MIT-red.svg)
 
-Search engine collections for SearchJumper.
+**Search engine collections for 🔍[SearchJumper](https://search.hoothin.com/ "搜索酱 搜尋醬").**
+
++ [🤖AI](AI)
+  - [English](https://search.hoothin.com/set/ai_en.html)
+  - [简体中文](https://search.hoothin.com/set/ai_zh.html)
+  - [正體中文](https://search.hoothin.com/set/ai_tw.html)
++ [🏞️Image](Image)
+  - [English](https://search.hoothin.com/set/img_en.html)
+  - [简体中文](https://search.hoothin.com/set/img_zh.html)
+  - [正體中文](https://search.hoothin.com/set/img_tw.html)
++ [🧩Misc](Misc)
+  - [English](https://search.hoothin.com/set/misc_en.html)
+  - [简体中文](https://search.hoothin.com/set/misc_zh.html)
+  - [正體中文](https://search.hoothin.com/set/misc_tw.html)
++ [Single](Single)
 
 Feel free to enter your website URL. It's also fine if the purpose is for promotion.
 
