@@ -1,0 +1,441 @@
+[
+  {
+    "type": "图片搜索",
+    "icon": "image",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "编辑此合集",
+        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/Image/main_zh.json",
+        "description": "前往 Github 提交 PR 以修改此合集"
+      },
+      {
+        "name": "百度图片",
+        "url": "https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=%s"
+      },
+      {
+        "name": "谷歌图片",
+        "url": "https://www.google.com/search?q=%s&tbm=isch",
+        "match": "www\\.google\\..*tbm=isch"
+      },
+      {
+        "name": "图片聚合搜索",
+        "url": "https://www.google.com/search?tbm=isch&as_q=%s%20(site:www.pexels.com%20OR%20site:pixabay.com%20OR%20site:unsplash.com%20OR%20site:stocksnap.io%20OR%20site:pxhere.com%20OR%20site:www.hippopx.com%20OR%20site:foter.com%20OR%20site:freepik.com%20OR%20site:colorhub.me)"
+      },
+      {
+        "name": "必应图片",
+        "url": "https://www.bing.com/images/search?q=%s"
+      },
+      {
+        "name": "搜狗图片",
+        "url": "https://pic.sogou.com/pics?query=%s"
+      },
+      {
+        "name": "pixiv",
+        "url": "https://www.pixiv.net/search.php?word=%s"
+      },
+      {
+        "name": "flickr",
+        "url": "https://www.flickr.com/search/?q=%s",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAqFBMVEUAAAD///////////////////////////////////8AY9z/AIT7/f///P6bwvIkeuL/JJbj7/z/6/aEtO//1exqpetZmuk4huUvgeMSb+D/nND/hMX/WK//OKD/L5zw9v3s9P3q8/3Y6PrS5Pn/8Pi61farzPT/5fP/4PGPu/B0quxGjub/ut4IaN7/q9f/mc7/j8n/db3/bbn/Z7b/Rqb/Fo//D4z/CIgsCp8LAAAACXRSTlMA89zZpYpVUQXYTJ6mAAABHUlEQVRYw+2XV67CMBBFJ4UkthMS4NHL6/Re978zBBYkOAYJ7gcI5Xx65CO5jXzpiOfYlsHuwLBsx6MzrskewHSJJDn2ILl4PmJwGYBL5JmIwPTIYRAO2ZjAJgsTWGRgAoMYSCbIBG8q8P/Lo1q1kv9mCsVGq91ZL8fBbUE35JLJ8JMl+FvshCSa3hD4ZR4T/sSFj0jErIKrggpPUi+cxvsbkaR1TTDgl9R8OR50xCVzveCrzhXysjATCtuiVlDiKqEsREKlqRVUeYrf4w6KFG2dwOeS1BoaIk2gERQ0gtKh0NQIerAAXgK6ifAxwhcJvcroY4KfM9hQ0Jb28l05E2SC5wjgzzb83YcDBxx54NCFxj40eOLRFw/fcPzfA423mmMlx29+AAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "花瓣",
+        "url": "https://huaban.com/search?q=%s"
+      },
+      {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/search/pins/?q=%s&rs=typed&term_meta"
+      },
+      {
+        "name": "yandex",
+        "url": "https://yandex.com/images/search?text=%s"
+      },
+      {
+        "name": "pixabay",
+        "url": "https://pixabay.com/images/search/%s/",
+        "icon": "https://pixabay.com/favicon-32x32.png"
+      },
+      {
+        "name": "unsplash",
+        "url": "https://unsplash.com/s/photos/%s"
+      },
+      {
+        "name": "500px",
+        "url": "https://500px.com/search?q=%s"
+      },
+      {
+        "name": "Deviantart",
+        "url": "https://www.deviantart.com/browse/all/?q=%s"
+      },
+      {
+        "name": "Wallhaven",
+        "url": "https://wallhaven.cc/search?q=%s"
+      },
+      {
+        "name": "Pixabay",
+        "url": "https://pixabay.com/zh/images/search/?manual_search=1&q=%s&hp=&order=&cat=&min_width=&min_height=",
+        "icon": "https://pixabay.com/favicon-32x32.png"
+      },
+      {
+        "name": "Backiee",
+        "url": "https://backiee.com/search/%s",
+        "icon": "https://backiee.com/assets/favicon/favicon-32x32.png"
+      }
+    ]
+  },
+  {
+    "type": "以图搜图",
+    "icon": "eye",
+    "selectImg": true,
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "谷歌以图搜图",
+        "url": "https://www.google.com/searchbyimage?sbisrc=cr_1_0_0&image_url=%T"
+      },
+      {
+        "name": "二维码解码",
+        "url": "https://hoothin.com/qrdecode#p{#fileInput=%i}",
+        "icon": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik02ODcuNTQyNzYzIDQ1My4wNjM2NzRzLTEyLjY1OTMzOS0zLjc5NzgwMi0xNC4wNjU5MzItMy43OTc4MDJINDAyLjcwNzYzN3YtNjIuNTkzMzk4YTEwNy4xODI0MDMgMTA3LjE4MjQwMyAwIDAgMSAxMDkuNzE0MjcxLTEwNC41MDk4NzUgMTA5LjI5MjI5MyAxMDkuMjkyMjkzIDAgMCAxIDEwMi42ODEzMDQgNjkuNDg1NzA0aDY4LjUwMTA5YTE3NC4yNzY4OTkgMTc0LjI3Njg5OSAwIDAgMC0xNzEuNjA0MzcyLTEzMi4yMTk3NjJjLTk2LjkxNDI3MiAwLTE3NS41NDI4MzMgNzQuODMwNzU5LTE3NS41NDI4MzMgMTY3LjI0MzkzM3Y2NS45NjkyMjJhNjIuODc0NzE3IDYyLjg3NDcxNyAwIDAgMC00My44ODU3MDkgNTkuMzU4MjM0djIyOS44MzczMzFhNjQuMjgxMzEgNjQuMjgxMzEgMCAwIDAgNjUuODI4NTYzIDYyLjczNDA1N2gzMDcuMTk5OTU4QTY0LjI4MTMxIDY0LjI4MTMxIDAgMCAwIDczMS40Mjg0NzEgNzQxLjgzNzI2MVY1MTEuOTk5OTNhNjIuODc0NzE3IDYyLjg3NDcxNyAwIDAgMC00My44ODU3MDgtNTguOTM2MjU2bS03Mi4yOTg4OTEgMTQ0LjMxNjQ2NGwtMTAwLjI5MDA5NyA5NS41MDc2NzlhMzQuNzQyODUyIDM0Ljc0Mjg1MiAwIDAgMS00Ni42OTg4OTQgMGwtNTkuMzU4MjM0LTU0Ljk5Nzc5NWEzMC42NjM3MzIgMzAuNjYzNzMyIDAgMCAxIDAtNDQuNDQ4MzQ1IDM0LjYwMjE5MyAzNC42MDIxOTMgMCAwIDEgNDYuNTU4MjM1IDBsMzUuMzA1NDkgMzIuMzUxNjQ0IDc4LjA2NTkyMy03My4wMDIxODhhMzQuNzQyODUyIDM0Ljc0Mjg1MiAwIDAgMSA0Ni41NTgyMzYgMCAzMC44MDQzOTEgMzAuODA0MzkxIDAgMCAxIDAgNDQuNDQ4MzQ1TTczLjE0Mjg0NyAyOTIuNTcxMzg4di03My4xNDI4NDdBMTQ2LjI4NTY5NCAxNDYuMjg1Njk0IDAgMCAxIDIxOS40Mjg1NDEgNzMuMTQyODQ3aDczLjE0Mjg0N1YwaC03My4xNDI4NDdBMjE5LjI4Nzg4MiAyMTkuMjg3ODgyIDAgMCAwIDAgMjE5LjQyODU0MXY3My4xNDI4NDd6TTczMS40Mjg0NzEgNzMuMTQyODQ3aDczLjE0Mjg0N2ExNDYuMjg1Njk0IDE0Ni4yODU2OTQgMCAwIDEgMTQ2LjI4NTY5NCAxNDYuMjg1Njk0djczLjE0Mjg0N2g3My4xNDI4NDd2LTczLjE0Mjg0N0EyMTkuMjg3ODgyIDIxOS4yODc4ODIgMCAwIDAgODA0LjU3MTMxOCAwSDczMS40Mjg0NzF6TTI5Mi41NzEzODggOTUwLjg1NzAxMmgtNzMuMTQyODQ3QTE0Ni4yODU2OTQgMTQ2LjI4NTY5NCAwIDAgMSA3My4xNDI4NDcgODA0LjU3MTMxOFY3MzEuNDI4NDcxSDB2NzMuMTQyODQ3YTIxOS4yODc4ODIgMjE5LjI4Nzg4MiAwIDAgMCAyMTkuNDI4NTQxIDIxOS40Mjg1NDFoNzMuMTQyODQ3ek05NTAuODU3MDEyIDczMS40Mjg0NzF2NzMuMTQyODQ3YTE0Ni4yODU2OTQgMTQ2LjI4NTY5NCAwIDAgMS0xNDYuMjg1Njk0IDE0Ni4yODU2OTRINzMxLjQyODQ3MXY3My4xNDI4NDdoNzMuMTQyODQ3YTIxOS4yODc4ODIgMjE5LjI4Nzg4MiAwIDAgMCAyMTkuNDI4NTQxLTIxOS40Mjg1NDFWNzMxLjQyODQ3MXogbTAgMCIgZmlsbD0iIzNEOEVGQSI+PC9wYXRoPjwvc3ZnPg=="
+      },
+      {
+        "name": "谷歌翻译图片",
+        "url": "https://translate.google.com/?op=images#p{input[accept^\\=\"image\"]=%i}"
+      },
+      {
+        "name": "WhatAnime",
+        "url": "https://trace.moe/?url=%T",
+        "icon": "https://trace.moe/favicon.png"
+      },
+      {
+        "name": "Lunapic",
+        "url": "https://www.lunapic.com/editor/index.php?action=url&url=%t",
+        "description": "使用 Lunapic 编辑图片",
+        "nobatch": true
+      },
+      {
+        "name": "Pixlr easy",
+        "url": "https://pixlr.com/x/#p{click(#home-open-url)&#image-url=%t&click(.dialog>.buttons>a.button.positive)}",
+        "description": "使用 Pixlr easy 编辑图片",
+        "nobatch": true
+      },
+      {
+        "name": "SauceNAO",
+        "url": "https://saucenao.com/search.php?db=999&url=%t"
+      },
+      {
+        "name": "IQDB",
+        "url": "https://iqdb.org/?url=%t"
+      },
+      {
+        "name": "Yandex以图搜图",
+        "url": "https://yandex.com/images/search?source=collections&rpt=imageview&url=%T"
+      },
+      {
+        "name": "3D IQDB",
+        "url": "https://3d.iqdb.org/?url=%t"
+      },
+      {
+        "name": "百度以图搜图",
+        "url": "https://graph.baidu.com/details?isfromtusoupc=1&tn=pc&carousel=0&promotion_name=pc_image_shituindex&extUiData%5bisLogoShow%5d=1&image=%T"
+      },
+      {
+        "name": "必应以图搜图",
+        "url": "https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:%T"
+      },
+      {
+        "name": "TinEye",
+        "url": "https://www.tineye.com/search?url=%T"
+      },
+      {
+        "name": "搜狗以图搜图",
+        "url": "https://pic.sogou.com/ris?query=%T"
+      },
+      {
+        "name": "KarmaDecay",
+        "url": "http://karmadecay.com/%t",
+        "icon": "data:image/ico;base64,AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAT3kAZW2FAIl2aQBNg44AZ4mdAImfogCfn58Ap7K8AL/f3wDq4NYA0ePsAOjl4wDm6usA7+zpAO/s6gDv7ekA8vDtAPXz8gDz8/MA9fTxAPj39QD4+PUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWBwQEBxYWFhYWFhYWFhYWFgQKCgQWFhYWFhYWFhYWFhYECQkEFhYBARYWFhYWFhYWBwQEBxYWAQABFhYWFhYWFhYWFhYWFhYBAAEWFhYWFhYHBAQHFhYWFgEAAQUCAgUIBAoKBBYWFhYWAQALDg4LAggJCQQWFhYWFgUMDQ4NDwwFBAQHFhYWFhYCEhAQEBASAhYWFhYWFhYWAhIRExMREgIEBAcWFhYWFgUMFRQUFAwGCgoEFhYWFhYIAwwSEgwDCAkJBBYWFhYWFggFAwMFCAcEBAcWFhYWFhYWFhYWFhYWFhYWFv//AAD/4QAA/+EAAP/hAACf4QAAj/8AAMfhAADgAQAA8AEAAPABAADwDwAA8AEAAPABAADwAQAA+AEAAP//AAA="
+      },
+      {
+        "name": "360以图搜图",
+        "url": "https://st.so.com/stu?imgurl=%t"
+      },
+      {
+        "name": "二维码解析-微微",
+        "url": "https://jiema.wwei.cn/url.html#p{#text-dm-url=%t&click(#jmqr_url_btn)}",
+        "nobatch": true
+      },
+      {
+        "name": "二维码解析-ZXing",
+        "url": "https://zxing.org/w/decode?full=true&u=%t",
+        "nobatch": true
+      },
+      {
+        "name": "二维码解析-兔子",
+        "url": "https://tuzim.net/decode/#p{input.ant-input=%t&click(button.ant-input-search-button)}",
+        "nobatch": true
+      },
+      {
+        "name": "二维码解析-SoJson",
+        "url": "https://www.sojson.com/qr/deqr.html#p{#url=%t&click([lay-filter\\=\"subQr\"])}",
+        "nobatch": true
+      },
+      {
+        "name": "ImgOps",
+        "url": "https://imgops.com/%b"
+      },
+      {
+        "name": "Photopea",
+        "url": "https://www.photopea.com/#%7B%22files%22:%5B%22%t%22%5D,%22environment%22:%7B%7D%7D",
+        "nobatch": true
+      },
+      {
+        "name": "二维码生成-以图搜图",
+        "url": "[\"二维码生成\"]"
+      },
+      {
+        "name": "Google lens",
+        "url": "https://www.google.com/imghp#p{click([aria-label\\=\"Search by image\"])&[name\\=\"encoded_image\"]=%i}"
+      }
+    ]
+  },
+  {
+    "type": "壁纸",
+    "icon": "file-image",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Ultra HD Wallpapers | UHD",
+        "url": "https://www.uhdpaper.com/search?q=%s&by-date=true&i=0",
+        "description": "4K 8K 壁纸"
+      },
+      {
+        "name": "Papers.co",
+        "url": "https://papers.co?cat=1&s=%s",
+        "description": "高质量壁纸"
+      },
+      {
+        "name": "GoodFon",
+        "url": "https://www.goodfon.com/search/?q=%s",
+        "description": "手机壁纸，桌面壁纸，宽屏壁纸"
+      },
+      {
+        "name": "WallHere",
+        "url": "https://wallhere.com/en/wallpapers?q=%s",
+        "icon": "https://s.wallhere.com/media/apple-touch-icon-57x57.png?v=230118",
+        "description": "免费高清壁纸"
+      },
+      {
+        "name": "WallpaperFusion",
+        "url": "https://www.wallpaperfusion.com/Search/%p{FormSubmitFormHeaderSearch=1&HeaderTxtSearch=%s}",
+        "description": "由 Binary Fortress Software 提供的 WallpaperFusion"
+      },
+      {
+        "name": "GameWallpapers",
+        "url": "https://www.gamewallpapers.com/index.php?page=search&searchstr=%s",
+        "description": "游戏主题壁纸",
+        "charset": "windows-1252"
+      },
+      {
+        "name": "牛牛美图",
+        "url": "https://www.uyn8.cn?s=%s",
+        "description": "免费看美女图片,性感美女,美女套图超市,风景,动漫,唯美图片大全"
+      },
+      {
+        "name": "极简壁纸",
+        "url": "https://bz.zzzmh.cn/search#p{.index-search-bar input=%s&enter()}",
+        "description": "海量电脑桌面壁纸美图_4K超高清_最潮壁纸网站"
+      },
+      {
+        "name": "壁纸湖",
+        "url": "https://bizihu.com/",
+        "icon": "https://bizihu.com/fliee/ico.png"
+      },
+      {
+        "name": "10wallpaper.com",
+        "url": "https://www.10wallpaper.com/search/%s/"
+      },
+      {
+        "name": "iPhone Wallpapers",
+        "url": "https://iphoneswallpapers.com/?s=%s",
+        "description": "iPhone 15、iPhone 14 和 iPhone 13 高清壁纸"
+      },
+      {
+        "name": "Wallroom",
+        "url": "https://wallroom.io/"
+      },
+      {
+        "name": "乌云高清壁纸站",
+        "url": "https://www.obzhi.com?s=%s",
+        "description": "每日分享美丽壁纸。"
+      },
+      {
+        "name": "天堂图片网",
+        "url": "https://www.ivsky.com/search.php?q=%s"
+      },
+      {
+        "name": "彼岸壁纸",
+        "url": "http://www.netbian.com/e/search/index.php%p{keyboard=%s&tempid=1&tbname=bzdb&show=title}",
+        "description": "高清电脑桌面壁纸图片大全 手机壁纸 彼岸桌面壁纸",
+        "charset": "GBK"
+      },
+      {
+        "name": "美桌网",
+        "url": "http://www.win4000.com/"
+      },
+      {
+        "name": "回车桌面",
+        "url": "https://www.enterdesk.com/search?modelid=6&keyword=%s",
+        "description": "壁纸不应该只是一张图片,它应该是一门哲学"
+      },
+      {
+        "name": "ZOL桌面壁纸",
+        "url": "https://xiazai.zol.com.cn/search?wd=%s&type=5&subid=8",
+        "description": "【桌面壁纸】电脑桌面壁纸图片大全_高清壁纸背景图",
+        "charset": "GBK"
+      },
+      {
+        "name": "必应壁纸",
+        "url": "https://www.todaybing.com/search.html?q=%s",
+        "description": "必应美图 - 超高质量的必应壁纸4K高清无水印下载"
+      },
+      {
+        "name": "WallpapersCraft",
+        "url": "https://wallpaperscraft.com/search/?query=%s",
+        "icon": "https://wallpaperscraft.com/public/img/general/favicon.ico?v=73029d22",
+        "description": "高清桌面壁纸，免费桌面背景"
+      },
+      {
+        "name": "4K高清壁纸",
+        "url": "https://www.4kbizhi.com/e/search/index.php%p{tempid=1&tbname=photo&show=title&keyboard=%s}",
+        "description": "4K高清壁纸,手机壁纸,超清壁纸,电脑图片",
+        "charset": "GBK"
+      },
+      {
+        "name": "壁纸图片搜索",
+        "url": "https://desk.3gbizhi.com/search/0-0-2-0/%s",
+        "icon": "https://desk.3gbizhi.com/assets/mobile/images/favicon.ico"
+      }
+    ]
+  },
+  {
+    "type": "二次元",
+    "icon": "dragon",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "konachan.net",
+        "url": "https://konachan.net/post?tags=%s",
+        "description": "Konachan.com 动漫壁纸. #nsfw"
+      },
+      {
+        "name": " Anime pictures and wallpapers search",
+        "url": "https://anime-pictures.net/posts?search_tag=%s"
+      },
+      {
+        "name": "每日漫图",
+        "url": "https://pixiv.moe-power.com/"
+      },
+      {
+        "name": "Danbooru",
+        "url": "https://danbooru.donmai.us/posts?tags=%s&z=5",
+        "description": "动漫图片平台 #nsfw"
+      },
+      {
+        "name": "Rule 34",
+        "url": "https://rule34.xxx/index.php?page=search%p{tags=%s}",
+        "description": "第34条规则，如存在的话，就有色情内容。 #nsfw"
+      },
+      {
+        "name": "e621",
+        "url": "https://e621.net/posts?tags=%s",
+        "description": "Furry控 #nsfw"
+      },
+      {
+        "name": "yande.re",
+        "url": "https://yande.re/post?tags=%s",
+        "description": "#nsfw"
+      },
+      {
+        "name": "Fur Affinity",
+        "url": "https://www.furaffinity.net/search/?q=%s",
+        "description": "Furry控 #nsfw"
+      }
+    ]
+  },
+  {
+    "type": "美女",
+    "icon": "person-dress",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "1Y Beauties",
+        "url": "https://www.1y.is/random/",
+        "description": "随机浏览性感写真"
+      },
+      {
+        "name": "美图131",
+        "url": "https://www.meitu131.com/e/sch/index.php?keyboard=%s"
+      },
+      {
+        "name": "日式JK",
+        "url": "https://www.jk.rs/%p{s=%s}",
+        "icon": "https://www.jk.rs/usr/themes/photograph/favicon.png"
+      },
+      {
+        "name": "福利兔",
+        "url": "https://www.fulitu.cc/%p{s=%s}",
+        "icon": "https://www.fulitu.cc/usr/themes/photograph/favicon.png",
+        "description": "快跟福利兔许个愿吧（*＾-＾*）"
+      },
+      {
+        "name": "绝对领域 – JDLINGYU",
+        "url": "https://www.jdlingyu.com?s=%s&type=post",
+        "description": "绅士从这里开始(´・ω・`)J站"
+      },
+      {
+        "name": "itotii",
+        "url": "https://www.itotii.net/?s=%s",
+        "description": "美少女で一息。。"
+      },
+      {
+        "name": "爱看INS",
+        "url": "https://www.ikanins.com/?s=%s",
+        "description": "Instagram网红美女推荐"
+      },
+      {
+        "name": "次元岛",
+        "url": "http://ciyuandao.com/photo?key=%s",
+        "description": "一站式coser成长平台|cos正片|cosplay图片|cos美图"
+      },
+      {
+        "name": "雅拉伊",
+        "url": "https://www.yalayi.com/search/?k=%s"
+      },
+      {
+        "name": "美人图",
+        "url": "https://meirentu.top/s/%s.html"
+      },
+      {
+        "name": "推图网",
+        "url": "https://www.tuiimg.com/search/%p{skey=%s}#from{meinv/}"
+      },
+      {
+        "name": "美图岛",
+        "url": "https://www.vvavm.com/?s=%s",
+        "description": "高清美女写真站"
+      },
+      {
+        "name": "RMM吧",
+        "url": "https://rmm8.com/tag/1259.html%p{tbname=photo&tempid=1&show=title&keyboard=%s}#from{tag/1259.html}",
+        "description": "性感图片 - 性感写真 - 性感套图欣赏"
+      },
+      {
+        "name": "美女集社",
+        "url": "https://www.meinv.im/search/?s=%s",
+        "icon": "https://www.meinv.im/static/favicon.ico"
+      }
+    ]
+  }
+]

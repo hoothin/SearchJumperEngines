@@ -1,0 +1,6 @@
+{
+  "name": "📦 Batch open urls",
+  "url": "%s[all]",
+  "kwFilter": "^https?:",
+  "description": "Open multiple links separated by line breaks or spaces, similar to https://xxx.com https://yyy.com, in bulk."
+}

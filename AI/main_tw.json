@@ -1,0 +1,545 @@
+[
+    {
+        "type": "常用",
+        "icon": "robot",
+        "openInNewTab": true,
+        "sites": [
+            {
+                "name": "編輯此合集",
+                "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/AI/main_tw.json",
+                "description": "前往 Github 提交 PR 以修改此合集"
+            },
+            {
+                "name": "Google Bard",
+                "url": "https://bard.google.com/chat#p{.ql-editor.textarea=%s}",
+                "icon": "https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg",
+                "description": "Bard 是由 Google 開發的生成式人工智能聊天機器人，最初基於大型語言模型的 LaMDA 系列，後來基於 PaLM2。是應對 OpenAI 公司開發的 ChatGPT 聊天機器人的崛起而開發的"
+            },
+            {
+                "name": "Poe - Sage AI Chat",
+                "url": "https://poe.com/#p{sleep(2000)&[class*\\=ChatMessageInputContainer]>textarea=%s&click([class*\\=ChatMessageSendButton])}",
+                "description": "Poe（全名為“開放探索平台”，Platform for Open Exploration）是一款由Quora開發的移動應用程序，於2022年12月推出。該應用程序內置建基於人工智能技術的聊天機器人， 可供使用者向機器人詢問專業知識、食譜、日常生活，甚或要求它創作文章等"
+            },
+            {
+                "name": "ChatGPT",
+                "url": "https://chat.openai.com/#p{#prompt-textarea=%s&click(#prompt-textarea+button)}",
+                "description": "ChatGPT，全名為聊天生成預訓練轉換器（英語：Chat Generative Pre-trained Transformer[2]），是OpenAI開發的人工智能聊天機器人程序，於2022年11月推出。該程序使用基於GPT -3.5、GPT-4架構的大型語言模型並以強化學習訓練。"
+            },
+            {
+                "name": "Futurepedia",
+                "url": "https://www.futurepedia.io/#p{input[name\\=q]=%s&click(button[type\\=submit]:not([disabled]))}",
+                "description": "Futurepedia 是最全面的AI工具導航網站。它提供了一個包含1000多種AI工具的平台,用戶可以在其中找到所需的幾乎所有類別的工具。"
+            },
+            {
+                "name": "AI研究所",
+                "url": "https://www.aiyjs.com/?s=%s",
+                "description": "中文的 AI 工具集合站"
+            },
+            {
+                "name": "快搜",
+                "url": "https://m.kuaisou.com/web/%s",
+                "description": "中文 AI 搜尋引擎"
+            },
+            {
+                "name": "phind",
+                "url": "https://www.phind.com/search?q=%s",
+                "description": "一款針對開發人員的AI搜尋引擎"
+            }
+        ]
+    },
+    {
+        "type": "AI 圖像",
+        "icon": "image",
+        "openInNewTab": true,
+        "sites": [
+            {
+                "name": "Stable Diffusion",
+                "url": "https://stability.ai/",
+                "description": "2022 年發布的深度學習文本到圖像生成模型。它主要用於根據文本的描述產生詳細圖像，儘管它也可以應用於其他任務，如內補繪製、外補繪製，以及在提示 字詞指導下產生圖生圖的轉變。"
+            },
+            {
+                "name": "Midjourney",
+                "url": "https://www.midjourney.com/",
+                "description": "由位於美國加州舊金山的同名研究實驗室開發之人工智能程序，可根據文本生成圖像，用戶可透過Discord的機器人指令進行操作"
+            },
+            {
+                "name": "Dall·E 2",
+                "url": "https://openai.com/dall-e-2",
+                "description": "DALL-E是一個可以透過文字描述中產生圖像的人工智慧程式。於2021年1月5日由OpenAI發表。"
+            },
+            {
+                "name": "NovelAI",
+                "url": "https://novelai.net/",
+                "icon": "https://novelai.net/icons/novelai-round.png",
+                "description": "NovelAI是由美國特拉華州的Anlatan公司開發的雲端軟體即服務（SaaS）模式訂閱制服務，其下有輔助故事寫作以及文本到圖像生成功能"
+            },
+            {
+                "name": "Magic Studio",
+                "url": "https://magicstudio.com/",
+                "description": "AI 圖像和照片編輯器，可以刪除物件、背景、從文字創建圖像、清晰化圖像等等。"
+            },
+            {
+                "name": "PlaygroundAI",
+                "url": "https://playgroundai.com/",
+                "description": "Playground 是一款免費的線上人工智慧圖像創作器。用它來創作藝術、社交媒體帖子、演示文稿、海報、視頻、徽標等。"
+            },
+            {
+                "name": "ProfilePicture",
+                "url": "https://www.profilepicture.ai/",
+                "description": "AI 製作個人資料裡的頭像"
+            },
+            {
+                "name": "Pebblely",
+                "url": "https://pebblely.com/",
+                "description": "AI 製作產品宣傳圖"
+            },
+            {
+                "name": "Pixela.ai",
+                "url": "https://pixela.ai/",
+                "description": "AI 生成遊戲紋理資產"
+            },
+            {
+                "name": "Stockimg AI",
+                "url": "https://stockimg.ai/",
+                "description": "Stockimg 是一款由人工智慧驅動的一體化設計和內容創建工具。 您可以輕鬆生成徽標、插圖、桌布、海報等。"
+            },
+            {
+                "name": "Craiyon",
+                "url": "https://www.craiyon.com/",
+                "description": "Craiyon 是一個 AI 模型，可以根據任何文字提示繪製圖像！"
+            },
+            {
+                "name": "Generated Photos",
+                "url": "https://generated.photos/",
+                "icon": "https://static.generated.photos/vue-static/favicon.png",
+                "description": "AI 產生無版權的真人頭像"
+            },
+            {
+                "name": "Nvidia GET3D",
+                "url": "https://research.nvidia.com/labs/toronto-ai/GET3D/",
+                "icon": "https://www.nvidia.com/favicon.ico",
+                "description": "Nvidia 的生成高品質 3D 紋理形狀的 AI 模型"
+            },
+            {
+                "name": "SolidGrids",
+                "url": "https://www.solidgrids.com/",
+                "icon": "https://framerusercontent.com/modules/t8JqigvL6vA6qRY1QnoW/2teY5JJ5Mj30dm2c0hSt/assets/e9t4lCoxLEMlVCfF6iPVI38XLKM.png",
+                "description": "AI 生成網店產品圖片"
+            },
+            {
+                "name": "Piggy Magic",
+                "url": "https://piggy.to/magic",
+                "icon": "https://piggy.to/favicon-32x32.png",
+                "description": "輸入文字產生電子相簿或投影片"
+            },
+            {
+                "name": "Waifu Labs",
+                "url": "https://waifulabs.com/",
+                "icon": "https://waifulabs.com/images/favicon.png",
+                "description": "AI 生成動畫角色插畫"
+            },
+            {
+                "name": "Lexica",
+                "url": "https://lexica.art/",
+                "description": "Lexica 是 Stable Diffusion 中比較受歡迎的 AI 藝術模型之一"
+            },
+            {
+                "name": "Scenario",
+                "url": "https://www.scenario.com/",
+                "icon": "https://assets-global.website-files.com/64808ef3e6895ba2a0075c4a/6499c1c9e199dce570b9a550_logo.png",
+                "description": "AI 生成遊戲 assets"
+            },
+            {
+                "name": "Phygital+",
+                "url": "https://phygital.plus/",
+                "description": "基於節點的 AI 視覺化設計，讓創作者無需程式碼即可使用神經網路。"
+            },
+            {
+                "name": "LeiaPix",
+                "url": "https://www.leiapix.com/",
+                "icon": "https://assets-global.website-files.com/65326edc4027c70cb821c33a/655bb16afb8dbc8b50da73c0_favicon.png",
+                "description": "2D 圖片轉為 3D 動畫"
+            },
+            {
+                "name": "niji · journey",
+                "url": "https://nijijourney.com/",
+                "icon": "https://nijijourney.com/assets/sizigi/favicon-32x32.png",
+                "description": "Midjourney & Spellbrush 合作研發的動畫文生圖"
+            },
+            {
+                "name": "ARC tencent",
+                "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration",
+                "icon": "https://arc.tencent.com/logo.ico",
+                "description": "騰訊圖片增強工具"
+            },
+            {
+                "name": "文心一格",
+                "url": "https://yige.baidu.com/#/",
+                "icon": "https://yige.baidu.com/favicon.png",
+                "description": "百度文生圖（夫妻肺片）"
+            },
+            {
+                "name": "PhotoRoom",
+                "url": "https://www.photoroom.com/",
+                "icon": "https://www.photoroom.com/favicons/favicon.ico",
+                "description": "AI 摳圖，刪除元素"
+            },
+            {
+                "name": "getimg.ai",
+                "url": "https://getimg.ai/",
+                "icon": "https://getimg.ai/icons/favicon-32x32.png",
+                "description": "AI 擴圖、改圖"
+            },
+            {
+                "name": "Easy-Peasy.AI",
+                "url": "https://easy-peasy.ai/",
+                "icon": "https://easy-peasy.ai/favicon/favicon-32x32.png",
+                "description": "內容創作、影像製作、音訊產生和人工智慧轉錄"
+            },
+            {
+                "name": "Tome",
+                "url": "https://tome.app/edu",
+                "description": "AI 快速創建 PPT 多媒體簡報、微型網站等"
+            },
+            {
+                "name": "beautiful.ai",
+                "url": "https://www.beautiful.ai/",
+                "description": "適合團隊方便協作的 AI 驅動的 PPT 演示軟體生成器"
+            },
+            {
+                "name": "NightCafe",
+                "url": "https://nightcafe.studio/",
+                "icon": "https://creator.nightcafe.studio/favicon-32x32.png",
+                "description": "AI 藝術品產生器"
+            },
+            {
+                "name": "即時設計",
+                "url": "https://js.design/AI-gallery",
+                "icon": "https://img.js.design/assets/webImg/favicon.ico",
+                "description": "AI 設計產生 UI"
+            },
+            {
+                "name": "AutoDraw",
+                "url": "https://www.autodraw.com/",
+                "icon": "https://www.autodraw.com/assets/images/favicon.png",
+                "description": "AI 快速繪畫"
+            },
+            {
+                "name": "Adobe Firefly",
+                "url": "https://firefly.adobe.com/",
+                "icon": "https://firefly.adobe.com/firefly_favicon.ico",
+                "description": "Adobe Creative Cloud 的產品，是一種用於設計領域的生成機器學習模型。 目前正處於公開 Beta 測試階段。"
+            },
+            {
+                "name": "midlibrary",
+                "url": "https://midlibrary.io/search?query=%s",
+                "icon": "https://assets-global.website-files.com/638266c083c0cd991057c455/6427112a37d94a0a80e183c1_favicon-32x32.png",
+                "description": "搜尋 midjourney 的提示詞"
+            },
+            {
+                "name": "XtimesAI",
+                "url": "https://www.xtimesai.com/?keyword=%s",
+                "description": "搜尋 Stable Diffusion 的模型"
+            }
+        ]
+    },
+    {
+        "type": "AI 影片",
+        "icon": "video",
+        "openInNewTab": true,
+        "sites": [
+            {
+                "name": "Synthesia",
+                "url": "https://www.synthesia.io/",
+                "icon": "https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc0796f359b6681ac07045_favicon.ico",
+                "description": "AI 視訊產生器，借助 AI 化身和配音，以 120 多種語言創建專業視頻，無需麥克風、攝影機或演員。"
+            },
+            {
+                "name": "Fliki",
+                "url": "https://fliki.ai/",
+                "icon": "https://storage.googleapis.com/fliki/public/favicon/favicon.ico",
+                "description": "文字生成影片或文字生成真人配音"
+            },
+            {
+                "name": "Runway",
+                "url": "https://runwayml.com/",
+                "icon": "https://runwayml.com/icons/icon-dark.png",
+                "description": "文字產生簡短的影片"
+            },
+            {
+                "name": "Pollinations",
+                "url": "https://pollinations.ai/",
+                "description": "AI 產生媒體資源。可以建立客製化的、免版稅的音訊、影像、3D 物件"
+            },
+            {
+                "name": "Munch",
+                "url": "https://www.getmunch.com/",
+                "icon": "https://assets-global.website-files.com/63ba8e823d3d7a927e5c2971/63ea607ca1d56435097c155c_Group%2035813.png",
+                "description": "AI 一鍵智慧抓取並且剪輯影片到 tiktok"
+            },
+            {
+                "name": "D-ID",
+                "url": "https://www.d-id.com/",
+                "icon": "https://www.d-id.com/wp-content/uploads/2023/11/d-id-logo-favicon-black.svg",
+                "description": "讓虛擬助理能帶表情對話"
+            },
+            {
+                "name": "Cascadeur",
+                "url": "https://cascadeur.com/",
+                "description": "AI 製作 3D 關鍵影格動畫和骨骼動畫"
+            },
+            {
+                "name": "Tavus",
+                "url": "https://www.tavus.io/",
+                "icon": "https://assets-global.website-files.com/63b2f566abde4cad39ba419f/63b73c43424bae3eb4c04c55_favicon.png",
+                "description": "AI 個人化影片產生平台，輸入文字取代語言"
+            },
+            {
+                "name": "Notevibes",
+                "url": "https://notevibes.com/",
+                "icon": "https://notevibes.com/img/favicon.ico",
+                "description": "一鍵將博文轉換為帶有真人語音和真人形象的視頻"
+            },
+            {
+                "name": "Hour One",
+                "url": "https://hourone.ai/",
+                "description": "文字轉換為真人播報員的影片"
+            },
+            {
+                "name": "Rephrase.ai",
+                "url": "https://www.rephrase.ai/",
+                "icon": "https://assets-global.website-files.com/6307393e40826809fbf8dabe/630e057222283f3afdcd4397_Frame%2017528.png",
+                "description": "透過文字和頭像產生帶有語音的真人視訊"
+            },
+            {
+                "name": "騰訊智影",
+                "url": "https://zenvideo.qq.com/",
+                "description": "騰訊 AI 視頻生成，支援文字轉視頻，配音，字幕識別"
+            }
+        ]
+    },
+    {
+        "type": "AI 文章",
+        "icon": "newspaper",
+        "openInNewTab": true,
+        "sites": [
+            {
+                "name": "Jenni AI",
+                "url": "https://jenni.ai/",
+                "icon": "https://framerusercontent.com/images/A1XT0IcEx0BUzCSt77LCW7okg.png",
+                "description": "AI 寫作助手，可用於研究論文撰寫"
+            },
+            {
+                "name": "Rytr",
+                "url": "https://rytr.me/",
+                "icon": "https://storage.googleapis.com/rytr-me/public/favicon/favicon-32x32.png",
+                "description": "人工智慧寫作助理"
+            },
+            {
+                "name": "訊飛星火",
+                "url": "https://xinghuo.xfyun.cn/",
+                "description": "訊飛星火認知大模型，是由科大訊飛推出的新一代認知智能大模型，擁有跨領域的知識和語言理解能力，能夠基於自然對話方式理解與執行任務，提供語言 理解、知識問答、邏輯推理、數學問題、程式碼理解與編寫等多種能力。"
+            },
+            {
+                "name": "Article Fiesta",
+                "url": "https://articlefiesta.com/",
+                "icon": "https://articlefiesta.com/static/favicon.ico",
+                "description": "AI 產生文章內容，為 SEO 優化，提高網站排名。"
+            },
+            {
+                "name": "Writesonic",
+                "url": "https://writesonic.com/",
+                "icon": "https://d1q5p2nadm4152.cloudfront.net/public/images/favicon.ico",
+                "description": "基於 SEO 創建和優化所有類型的內容，透過解碼競爭對手的秘密並利用趨勢關鍵字來提高您的自然流量"
+            },
+            {
+                "name": "Notion AI",
+                "url": "https://www.notion.so/product/ai",
+                "icon": "https://www.notion.so/front-static/favicon.ico",
+                "description": "Notion 的 AI，使用 wiki、專案和文件中的資訊來獲取問題的答案。"
+            },
+            {
+                "name": "Copy.ai",
+                "url": "https://www.copy.ai/",
+                "icon": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/658311295861d76598256dae_favicon%209.png",
+                "description": "AI 驅動的文案撰寫者，可為您的企業產生高品質的文案，使行銷簡單化！"
+            },
+            {
+                "name": "LongShot",
+                "url": "https://www.longshot.ai/",
+                "icon": "https://assets-global.website-files.com/62a1d5337c2a860b919132f8/62c972456d27694153c0f914_LongShot%20favicon.png",
+                "description": "博文助手，點擊 3 次即可製作出真實準確的內容草稿"
+            },
+            {
+                "name": "Jasper",
+                "url": "https://www.jasper.ai/",
+                "icon": "https://assets-global.website-files.com/60e5f2de011b86acebc30db7/60e5f2de011b86e6acc31077_Favicon.png",
+                "description": "企業行銷團隊的 AI 助手"
+            },
+            {
+                "name": "CoWriter",
+                "url": "https://cowriter.org/login",
+                "description": "文字編輯器和文案生成器，旨在增強作家的能力並徹底改變創意寫作過程。適用於生成部落格、文章、電子郵件、廣告等內容。"
+            },
+            {
+                "name": "Hoppy Copy",
+                "url": "https://www.hoppycopy.co/",
+                "icon": "https://assets-global.website-files.com/64a4aaf614f9983555a7fbe8/64e11a613759ac224c78c8b1_favicon.png",
+                "description": "AI 產生行銷電子郵件、新聞簡訊"
+            },
+            {
+                "name": "Yaara",
+                "url": "https://www.yaara.ai/",
+                "description": "AI 編寫經過驗證的高轉換文案，以提高轉換率和ROI。適用於廣告、電子郵件、網站、部落格、故事"
+            },
+            {
+                "name": "Fireflies",
+                "url": "https://fireflies.ai/",
+                "description": "將 ChatGPT 引入會議。為 Zoom、Google Meet、Microsoft Teams、Webex 和其他幾個平台產生文字記錄和智慧摘要。"
+            },
+            {
+                "name": "Glasp",
+                "url": "https://glasp.co/",
+                "icon": "https://glasp.co/src/img/glasp_logo.png",
+                "description": "社交網絡螢光筆，可以突出顯示和組織網絡上的引述和想法，並訪問其他志同道合的人的學習成果。"
+            },
+            {
+                "name": "MagickPen",
+                "url": "https://magickpen.com/",
+                "description": "AI 文章產生器，適用於寫作、大綱、論文、影片腳本、廣告等"
+            }
+        ]
+    },
+    {
+        "type": "AI 音訊",
+        "icon": "headphones",
+        "openInNewTab": true,
+        "sites": [
+            {
+                "name": "Papercup",
+                "url": "https://www.papercup.com/",
+                "description": "逼真的人工智慧語音，由真人翻譯完善"
+            },
+            {
+                "name": "Mubert",
+                "url": "https://mubert.com/",
+                "description": "為影片、部落格、應用程式產生免版稅音樂"
+            },
+            {
+                "name": "Murf AI",
+                "url": "https://murf.ai/",
+                "icon": "https://assets-global.website-files.com/6215d56ae85caa0a3026a433/6241d0ccef69062a2cd3986f_Murf-logo-32.ico",
+                "description": "文字生成真人語音"
+            },
+            {
+                "name": "LALAL.AI",
+                "url": "https://www.lalal.ai/",
+                "description": "從任何音訊和視訊中提取人聲、伴奏和各種樂器"
+            },
+            {
+                "name": "Plaud",
+                "url": "https://plaud.ai/",
+                "description": "Al 錄音機，可輕鬆錄製會議、iPhone 通話和語音備忘錄"
+            },
+            {
+                "name": "AIVA",
+                "url": "https://www.aiva.ai/",
+                "icon": "https://www.aiva.ai/assets/img/favicon.ico",
+                "description": "AI 音樂生成助手"
+            },
+            {
+                "name": "Mubert TTM",
+                "url": "https://huggingface.co/spaces/OneAfterlife/MubertTTM",
+                "description": "Mubert 文字生成音樂"
+            },
+            {
+                "name": "網易天音",
+                "url": "https://tianyin.music.163.com/#/",
+                "icon": "https://s7.music.126.net/6369f9ec78c25c1818ccfc08/img/favicon_021f7155.ico",
+                "description": "網易 AI 音樂創作者工具"
+            },
+            {
+                "name": "Uberduck",
+                "url": "https://www.uberduck.ai/",
+                "icon": "https://assets-global.website-files.com/64a1b8b52c90dcbcdf097075/64a1bb7f6265165d6dd941a5_Logo%20-%20upscale-1.png",
+                "description": "透過將您的文字與 Uberduck 的真實聲音或您自己的自訂聲音進行合成，產生高品質的聲音。"
+            },
+            {
+                "name": "MusicLM",
+                "url": "https://google-research.github.io/seanet/musiclm/examples/",
+                "icon": "https://google.com/favicon.ico",
+                "description": "Google AI 文字生成音樂"
+            }
+        ]
+    },
+    {
+        "type": "AI 工具",
+        "icon": "screwdriver-wrench",
+        "openInNewTab": true,
+        "sites": [
+            {
+                "name": "Soofy",
+                "url": "https://soofy.io/",
+                "icon": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fa117f7b6393a1c79e27de25e2692c431.cdn.bubble.io%2Ff16668615499831.cdn.bubble.io%2Ff16668615499831.cdn.bubble.io%2Ff16668615499831.c 8&h=&auto=compress&dpr=1&fit=max",
+                "description": "AI 練習語言技能"
+            },
+            {
+                "name": "Cody",
+                "url": "https://meetcody.ai/",
+                "icon": "https://meetcody.ai/wp-content/themes/cody_v1/assets/images/cody_logo_icon.svg",
+                "description": "商業人工智慧助理"
+            },
+            {
+                "name": "CharacterGPT",
+                "url": "https://alethea.ai/characterGPT.html",
+                "icon": "https://alethea.ai/assets/img/favicon.ico",
+                "description": "CharacterGPT 是世界上第一個多模式生成人工智慧系統，可以根據自然語言的描述創建互動式人工智慧角色。"
+            },
+            {
+                "name": "character.ai",
+                "url": "https://beta.character.ai/",
+                "icon": "https://characterai.io/static/favicon_v2.ico",
+                "description": "創造虛擬角色並與他們交談。"
+            },
+            {
+                "name": "AirOps",
+                "url": "https://www.airops.com/",
+                "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA3lJREFUWEftlltIFFEYx//njK6ibklZpoJBUGGGG1rbzcDIh8WKJKJKJDJK25F424511rbzc l6iUw7GL3MnXL3XVm4pycaWd3dlbtoZc9L8Oc+c45v+//XeaQsJlTZPzHQfwAfgX8CvgV8CtgpEBS4mykJS/ijbqh+SFa2p5i7dIV/L2mEBS4mykJS/ijbqh+SFa2p5i7dIV/L2m4abwCwV4Qd HJlLl2v2KK0+joJNW/mcedZU/szfuE2dY+/ipw8Y6HqDuvu3cfT6FXQSgh8gXll0AZiXp4vL+KKys1WoabiFpAQLKnILMNo8SgVQ7GS7HbV5WYi0PJDJAJDJ時期A時期三時期A時期三葉節服務葉4wdkle9RFrmBMAWaX2NuNt4W5EG29CDHQvA/AG0JRTAPwglDVUhfgeV0TYqNjsCR7HVrarKpxbFQMntc3qQp0bN+JX1UVkB2OoYSb2/QD2CaY8GQwhAgY +cWNDQ3qpuzJGutqeXvy2ZOxjHmiPPv4cGWeYjYfxjC+AkaIJYXX4p2oN/6mM/bAGQIQeggBCMKAYt5+5ypiID2LhOaugJj8g+AhoYaArCPVkKxQTDpA7D4s/iysbuyFC3tVp4TBRu38iTsuXQO7yr3ecQ8PCcPo9ZvhvT9q8Zjvfj8BLDdGwBbwMqNlZjrYBXB5rrSF8LZ2eGxb+SZywi2zIez4yW6Vqb4zIs7VNBXQFnJvGbNKNxs5rnAEjI7ZTFyHtSDypLHAdE3GhE4abJm3gjmM7zkgBF6gizhhOiA2c3IWwIyMyOIYV9K58oSDukAKAlITCb0nD+F7pOVGFt8EGHpqyA7neqcK/cAYBwCPSXiZQnVohNhbhWgZ+uqSl/tVXwt2aWtjpEAjIaM1gG7x3mKt5LNhm9lhbDduQlfAG+99QFf6XtFdGCGWxK69oB+ays+Zq3xGYJLNGD4IWBwabKIvTwM2qGUobsDCpDrPOufmUZ9wJcK10QH4nRK0R1C73D2P7hHBRTRwJEpwOCmyRIuiA4E+yLV+f6KEKwWgvg/Ydhl6LofK8kjogPazu+diHn+nhBsoSa8Jn8uKf8EwDaYJMsolJyYLkuG9wEWc9Z6y2kg91wZ/wygbMTUSJdFWCQJ4yCDN5lBj5uJgHpCNRcRZd1vSVKP1CWPZtMAAAAASUVORK5CYII=",
+                "description": "AI 寫 SQL 程式碼"
+            },
+            {
+                "name": "Codeium",
+                "url": "https://codeium.com/",
+                "description": "AI 程式碼補全、api 呼叫、生成單元測試用例、搜尋和聊天。它支援 70 多種語言，並與多種 IDE 整合"
+            },
+            {
+                "name": "Learning Prompt",
+                "url": "https://learningprompt.wiki/",
+                "icon": "https://learningprompt.wiki/img/favicon.ico",
+                "description": "免費的提示詞工程和 Midjourney 教學。"
+            },
+            {
+                "name": "AI幫個忙",
+                "url": "https://aibang.run/",
+                "icon": "https://aibang.run/favicon-32x32.png",
+                "description": "AI 工具集"
+            },
+            {
+                "name": "Perplexity",
+                "url": "https://www.perplexity.ai/search?q=%s",
+                "description": "AI 知識聊天機器人"
+            },
+            {
+                "name": "Andi",
+                "url": "https://andisearch.com/?q=%s",
+                "description": "AI 聊天機器人"
+            }
+        ]
+    },
+    {
+        "type": "AI 教學",
+        "icon": "graduation-cap",
+        "openInNewTab": true,
+        "sites": []
+    }
+]

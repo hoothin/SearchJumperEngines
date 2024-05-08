@@ -1,0 +1,335 @@
+[{
+  "type": "Search image by keywords",
+  "icon": "image",
+  "openInNewTab": true,
+  "sites": [{
+    "name": "Edit this collection",
+    "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/Image/main_en.json",
+    "description": "Pull request to edit this collection on github"
+  }, {
+    "name": "Google image",
+    "url": "https://www.google.com/search?q=%s&tbm=isch",
+    "match": "www\\.google\\..*tbm=isch"
+  }, {
+    "name": "Multi-search",
+    "url": "https://www.google.com/search?tbm=isch&as_q=%s%20(site:www.pexels.com%20OR%20site:pixabay.com%20OR%20site:unsplash.com% 20OR%20site:stocksnap.io%20OR%20site:pxhere.com%20OR%20site:www.hippopx.com%20OR%20site:foter.com%20OR%20site:freepik.com%20OR%20site:colorhub.0OR%20site:freepik.com%20OR%20site:colorhub. "
+  }, {
+    "name": "Bing image",
+    "url": "https://www.bing.com/images/search?q=%s"
+  }, {
+    "name": "pixiv",
+    "url": "https://www.pixiv.net/search.php?word=%s"
+  }, {
+    "name": "flickr",
+    "url": "https://www.flickr.com/search/?q=%s",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAqFBMVEUAAAD///////////////////////////////////8AY9z /AIT7/f///P6bwvIkeuL/JJbj7/z/6/aEtO//1exqpetZmuk4huUvgeMSb+D/nND/hMX/WK//OKD/L5zw9v3s9P3q8/3Y6PrS5Pn/8Pi61farzPT/5fP/4PGPu/B0quxGjub/ut4IaN7/q9f/mc7/j8n /db3/bbn/Z7b/Rqb/Fo//D4z/CIgsCp8LAAAACXRSTlMA89zZpYpVUQXYTJ6mAAABHUlEQVRYw+2XV67CMBBFJ4UkthMS4NHL6/Re978 Dn2ILl4PmJwGYBL5JmIwPTIYRAO2ZjAJgsTWGRgAoMYSCbIBG8q8P/Lo1q1kv9mCsVGq91ZL8fBbUE35JLJ8JMl+FvshCSa3hD4ZR4T/bUE35JLJ8JMl+FvshCSa3hD4ZR4T/bUE35 zhXysjATCtuiVlDiKqEsREKlqRVUeYrf4w6KFG2dwOeS1BoaIk2gERQ0gtKh0NQIerAAXgK6ifAxwhcJvcroY4KfM9hQ0Jb28l05E2SC5wjgzzwmmw AAAElFTkSuQmCC"
+  }, {
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/search/pins/?q=%s&rs=typed&term_meta"
+  }, {
+    "name": "yandex",
+    "url": "https://yandex.com/images/search?text=%s"
+  }, {
+    "name": "pixabay",
+    "url": "https://pixabay.com/images/search/%s/",
+    "icon": "https://pixabay.com/favicon-32x32.png"
+  }, {
+    "name": "unsplash",
+    "url": "https://unsplash.com/s/photos/%s"
+  }, {
+    "name": "500px",
+    "url": "https://500px.com/search?q=%s"
+  }, {
+    "name": "Deviantart",
+    "url": "https://www.deviantart.com/browse/all/?q=%s"
+  }, {
+    "name": "Wallhaven",
+    "url": "https://wallhaven.cc/search?q=%s"
+  }, {
+    "name": "Pixabay",
+    "url": "https://pixabay.com/zh/images/search/?manual_search=1&q=%s&hp=&order=&cat=&min_width=&min_height=",
+    "icon": "https://pixabay.com/favicon-32x32.png"
+  }, {
+    "name": "Backiee",
+    "url": "https://backiee.com/search/%s",
+    "icon": "https://backiee.com/assets/favicon/favicon-32x32.png"
+  }, {
+    "name": "Baidu image",
+    "url": "https://image.baidu.com/search/index?tn=baiduimage&ie=utf-8&word=%s"
+  }, {
+    "name": "Sogou image",
+    "url": "https://pic.sogou.com/pics?query=%s"
+  }, {
+    "name": "Huaban",
+    "url": "https://huaban.com/search?q=%s"
+  }]
+}, {
+  "type": "Search image by image",
+  "icon": "eye",
+  "selectImg": true,
+  "openInNewTab": true,
+  "sites": [{
+    "name": "Google image by image",
+    "url": "https://www.google.com/searchbyimage?sbisrc=cr_1_0_0&image_url=%T"
+  }, {
+    "name": "Decode Qrcode",
+    "url": "https://hoothin.com/qrdecode#p{#fileInput=%i}",
+    "icon": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik02ODcuNTQyNzYzIDQ1My4wNjM2NzRzLTEyLjY1OTMzOS0zLjc5NzgwMi0xNC4wNjU5MzItMy43OTc4MDJINDAyLjcwNzYzN3YtNjIuNTkzMzk4YTEwNy4xODI0MDMgMTA3LjE4MjQwMyAwIDAgMSAxMDkuNzE0MjcxLTEwNC41MDk4NzUgMTA5LjI5MjI5MyAxMDkuMjkyMjkzIDAgMCAxIDEwMi42ODEzMDQgNjkuNDg1NzA0aDY4LjUwMTA5YTE3NC4yNzY4OTkgMTc0LjI3Njg5OSAwIDAgMC0xNzEuNjA0MzcyLTEzMi4yMTk3NjJjLTk2LjkxNDI3MiAwLTE3NS41NDI4MzMgNzQuODMwNzU5LTE3NS41NDI4MzMgMTY3LjI0MzkzM3Y2NS45NjkyMjJhNjIuODc0NzE3IDYyLjg3NDcxNyAwIDAgMC00My44ODU3MDkgNTkuMzU4MjM0djIyOS44MzczMzFhNjQuMjgxMzEgNjQuMjgxMzEgMCAwIDAgNjUuODI4NTYzIDYyLjczNDA1N2gzMDcuMTk5OTU4QTY0LjI4MTMxIDY0LjI4MTMxIDAgMCAwIDczMS40Mjg0NzEgNzQxLjgzNzI2MVY1MTEuOTk5OTNhNjIuODc0NzE3IDYyLjg3NDcxNyAwIDAgMC00My44ODU3MDgtNTguOTM2MjU2bS03Mi4yOTg4OTEgMTQ0LjMxNjQ2NGwtMTAwLjI5MDA5NyA5NS41MDc2NzlhMzQuNzQyODUyIDM0Ljc0Mjg1MiAwIDAgMS00Ni42OTg4OTQgMGwtNTkuMzU4MjM0LTU0Ljk5Nzc5NWEzMC42NjM3MzIgMzAuNjYzNzMyIDAgMCAxIDAtNDQuNDQ4MzQ1IDM0LjYwMjE5MyAzNC42MDIxOTMgMCAwIDEgNDYuNTU4MjM1IDBsMzUuMzA1NDkgMzIuMzUxNjQ0IDc4LjA2NTkyMy03My4wMDIxODhhMzQuNzQyODUyIDM0Ljc0Mjg1MiAwIDAgMSA0Ni41NTgyMzYgMCAzMC44MDQzOTEgMzAuODA0MzkxIDAgMCAxIDAgNDQuNDQ4MzQ1TTczLjE0Mjg0NyAyOTIuNTcxMzg4di03My4xNDI4NDdBMTQ2LjI4NTY5NCAxNDYuMjg1Njk0IDAgMCAxIDIxOS40Mjg1NDEgNzMuMTQyODQ3aDczLjE0Mjg0N1YwaC03My4xNDI4NDdBMjE5LjI4Nzg4MiAyMTkuMjg3ODgyIDAgMCAwIDAgMjE5LjQyODU0MXY3My4xNDI4NDd6TTczMS40Mjg0NzEgNzMuMTQyODQ3aDczLjE0Mjg0N2ExNDYuMjg1Njk0IDE0Ni4yODU2OTQgMCAwIDEgMTQ2LjI4NTY5NCAxNDYuMjg1Njk0djczLjE0Mjg0N2g3My4xNDI4NDd2LTczLjE0Mjg0N0EyMTkuMjg3ODgyIDIxOS4yODc4ODIgMCAwIDAgODA0LjU3MTMxOCAwSDczMS40Mjg0NzF6TTI5Mi41NzEzODggOTUwLjg1NzAxMmgtNzMuMTQyODQ3QTE0Ni4yODU2OTQgMTQ2LjI4NTY5NCAwIDAgMSA3My4xNDI4NDcgODA0LjU3MTMxOFY3MzEuNDI4NDcxSDB2NzMuMTQyODQ3YTIxOS4yODc4ODIgMjE5LjI4Nzg4MiAwIDAgMCAyMTkuNDI4NTQxIDIxOS40Mjg1NDFoNzMuMTQyODQ3ek05NTAuODU3MDEyIDczMS40Mjg0NzF2NzMuMTQyODQ3YTE0Ni4yODU2OTQgMTQ2LjI4NTY5NCAwIDAgMS0xNDYuMjg1Njk0IDE0Ni4yODU2OTRINzMxLjQyODQ3MXY3My4xNDI4NDdoNzMuMTQyODQ3YTIxOS4yODc4ODIgMjE5LjI4Nzg4MiAwIDAgMCAyMTkuNDI4NTQxLTIxOS40Mjg1NDFWNzMxLjQyODQ3MXogbTAgMCIgZmlsbD0iIzNEOEVGQSI+PC9wYXRoPjwvc3ZnPg=="
+  }, {
+    "name": "Google translate image",
+    "url": "https://translate.google.com/?op=images#p{input[accept^\\=\"image\"]=%i}"
+  }, {
+    "name": "WhatAnime",
+    "url": "https://trace.moe/?url=%T",
+    "icon": "https://trace.moe/favicon.png"
+  }, {
+    "name": "Lunapic",
+    "url": "https://www.lunapic.com/editor/index.php?action=url&url=%t",
+    "description": "Edit image by Lunapic",
+    "nobatch": true
+  }, {
+    "name": "Pixlr easy",
+    "url": "https://pixlr.com/x/#p{click(#home-open-url)&#image-url=%t&click(.dialog>.buttons>a.button.positive)}",
+    "description": "Edit image by Pixlr easy",
+    "nobatch": true
+  }, {
+    "name": "SauceNAO",
+    "url": "https://saucenao.com/search.php?db=999&url=%t"
+  }, {
+    "name": "IQDB",
+    "url": "https://iqdb.org/?url=%t"
+  }, {
+    "name": "Yandex image by image",
+    "url": "https://yandex.com/images/search?source=collections&rpt=imageview&url=%T"
+  }, {
+    "name": "3D IQDB",
+    "url": "https://3d.iqdb.org/?url=%t"
+  }, {
+    "name": "Baidu image by image",
+    "url": "https://graph.baidu.com/details?isfromtusoupc=1&tn=pc&carousel=0&promotion_name=pc_image_shituindex&extUiData%5bisLogoShow%5d=1&image=%T"
+  }, {
+    "name": "Bing image by image",
+    "url": "https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:%T"
+  }, {
+    "name": "TinEye",
+    "url": "https://www.tineye.com/search?url=%T"
+  }, {
+    "name": "Sogou image by image",
+    "url": "https://pic.sogou.com/ris?query=%T"
+  }, {
+    "name": "KarmaDecay",
+    "url": "http://karmadecay.com/%t",
+    "icon": "data:image/ico;base64,AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAT3kAZW2FAIl2aQBNg44AZ4mdAImfogCfn58Ap7K8AL/f3wDq4NYA0ePsAOjl4wDm6usA7+zpAO/s6gDv7ekA8vDtAPXz8gDz8/MA9fTxAPj39QD4+PUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWBwQEBxYWFhYWFhYWFhYWFgQKCgQWFhYWFhYWFhYWFhYECQkEFhYBARYWFhYWFhYWBwQEBxYWAQABFhYWFhYWFhYWFhYWFhYBAAEWFhYWFhYHBAQHFhYWFgEAAQUCAgUIBAoKBBYWFhYWAQALDg4LAggJCQQWFhYWFgUMDQ4NDwwFBAQHFhYWFhYCEhAQEBASAhYWFhYWFhYWAhIRExMREgIEBAcWFhYWFgUMFRQUFAwGCgoEFhYWFhYIAwwSEgwDCAkJBBYWFhYWFggFAwMFCAcEBAcWFhYWFhYWFhYWFhYWFhYWFv//AAD/4QAA/+EAAP/hAACf4QAAj/8AAMfhAADgAQAA8AEAAPABAADwDwAA8AEAAPABAADwAQAA+AEAAP//AAA="
+  }, {
+    "name": "360 image by image",
+    "url": "https://st.so.com/stu?imgurl=%t"
+  }, {
+    "name": "Decode Qrcode-wwei",
+    "url": "https://jiema.wwei.cn/url.html#p{#text-dm-url=%t&click(#jmqr_url_btn)}",
+    "nobatch": true
+  }, {
+    "name": "Decode Qrcode-ZXing",
+    "url": "https://zxing.org/w/decode?full=true&u=%t",
+    "nobatch": true
+  }, {
+    "name": "Decode Qrcode-tuzim",
+    "url": "https://tuzim.net/decode/#p{input.ant-input=%t&click(button.ant-input-search-button)}",
+    "nobatch": true
+  }, {
+    "name": "Decode Qrcode-SoJson",
+    "url": "https://www.sojson.com/qr/deqr.html#p{#url=%t&click([lay-filter\\=\"subQr\"])}",
+    "nobatch": true
+  }, {
+    "name": "ImgOps",
+    "url": "https://imgops.com/%b"
+  }, {
+    "name": "Photopea",
+    "url": "https://www.photopea.com/#%7B%22files%22:%5B%22%t%22%5D,%22environment%22:%7B%7D%7D",
+    "nobatch": true
+  }, {
+    "name": "Google lens",
+    "url": "https://www.google.com/imghp#p{click([aria-label\\=\"Search by image\"])&[name\\=\"encoded_image\"]=%i}"
+  }]
+}, {
+  "type": "Wallpaper",
+  "icon": "file-image",
+  "openInNewTab": true,
+  "sites": [{
+    "name": "Ultra HD Wallpapers | UHD",
+    "url": "https://www.uhdpaper.com/search?q=%s&by-date=true&i=0",
+    "description": "4K 8K Wallpapers"
+  }, {
+    "name": "Papers.co",
+    "url": "https://papers.co?cat=1&s=%s",
+    "description": "HD Wallpapers"
+  }, {
+    "name": "GoodFon",
+    "url": "https://www.goodfon.com/search/?q=%s",
+    "description": "Mobile wallpaper, desktop wallpaper, wide screen wallpaper"
+  }, {
+    "name": "WallHere",
+    "url": "https://wallhere.com/en/wallpapers?q=%s",
+    "icon": "https://s.wallhere.com/media/apple-touch-icon-57x57.png?v=230118",
+    "description": "Free HD wallpapers"
+  }, {
+    "name": "WallpaperFusion",
+    "url": "https://www.wallpaperfusion.com/Search/%p{FormSubmitFormHeaderSearch=1&HeaderTxtSearch=%s}",
+    "description": "WallpaperFusion by Binary Fortress Software"
+  }, {
+    "name": "GameWallpapers",
+    "url": "https://www.gamewallpapers.com/index.php?page=search&searchstr=%s",
+    "description": "Game theme wallpaper",
+    "charset": "windows-1252"
+  }, {
+    "name": "Uyn8",
+    "url": "https://www.uyn8.cn?s=%s",
+    "description": "Free pictures of beautiful women, sexy beauties, beauty supermarket sets, scenery, animations, and beautiful pictures"
+  }, {
+    "name": "Zzzmh",
+    "url": "https://bz.zzzmh.cn/search#p{.index-search-bar input=%s&enter()}",
+    "description": "Massive computer desktop wallpaper pictures_4K ultra high definition_the most fashionable wallpaper website"
+  }, {
+    "name": "Bizihu",
+    "url": "https://bizihu.com/",
+    "icon": "https://bizihu.com/fliee/ico.png"
+  }, {
+    "name": "10wallpaper.com",
+    "url": "https://www.10wallpaper.com/search/%s/"
+  }, {
+    "name": "iPhone Wallpapers",
+    "url": "https://iphoneswallpapers.com/?s=%s",
+    "description": "iPhone 15 iPhone 14 iPhone 13 HD Wallpapers"
+  }, {
+    "name": "Wallroom",
+    "url": "https://wallroom.io/"
+  }, {
+    "name": "Obzhi",
+    "url": "https://www.obzhi.com?s=%s"
+  }, {
+    "name": "IvSky",
+    "url": "https://www.ivsky.com/search.php?q=%s"
+  }, {
+    "name": "Netbian",
+    "url": "http://www.netbian.com/e/search/index.php%p{keyboard=%s&tempid=1&tbname=bzdb&show=title}",
+    "description": "Complete collection of high-definition computer desktop wallpapers, mobile phone wallpapers, and other shore desktop wallpapers",
+    "charset": "GBK"
+  }, {
+    "name": "Win4000",
+    "url": "http://www.win4000.com/"
+  }, {
+    "name": "Enter desk",
+    "url": "https://www.enterdesk.com/search?modelid=6&keyword=%s"
+  }, {
+    "name": "ZOL desk",
+    "url": "https://xiazai.zol.com.cn/search?wd=%s&type=5&subid=8",
+    "description": "[Desktop wallpaper] Computer desktop wallpaper picture collection_HD wallpaper background picture",
+    "charset": "GBK"
+  }, {
+    "name": "Bing wallpaper",
+    "url": "https://www.todaybing.com/search.html?q=%s",
+    "description": "Bing Beautiful Pictures - Ultra-high quality Bing wallpapers 4K HD without watermark download"
+  }, {
+    "name": "WallpapersCraft",
+    "url": "https://wallpaperscraft.com/search/?query=%s",
+    "icon": "https://wallpaperscraft.com/public/img/general/favicon.ico?v=73029d22"
+  }, {
+    "name": "4K HD wallpaper",
+    "url": "https://www.4kbizhi.com/e/search/index.php%p{tempid=1&tbname=photo&show=title&keyboard=%s}",
+    "charset": "GBK"
+  }, {
+    "name": "3Gbizhi",
+    "url": "https://desk.3gbizhi.com/search/0-0-2-0/%s",
+    "icon": "https://desk.3gbizhi.com/assets/mobile/images/favicon.ico"
+  }]
+}, {
+  "type": "Anime",
+  "icon": "dragon",
+  "openInNewTab": true,
+  "sites": [{
+    "name": "konachan.net",
+    "url": "https://konachan.net/post?tags=%s",
+    "description": "Konachan.com anime wallpaper. #nsfw"
+  }, {
+    "name": " Anime pictures and wallpapers search",
+    "url": "https://anime-pictures.net/posts?search_tag=%s"
+  }, {
+    "name": "Moe-power",
+    "url": "https://pixiv.moe-power.com/"
+  }, {
+    "name": "Danbooru",
+    "url": "https://danbooru.donmai.us/posts?tags=%s&z=5",
+    "description": "Anime platform #nsfw"
+  }, {
+    "name": "Rule 34",
+    "url": "https://rule34.xxx/index.php?page=search%p{tags=%s}",
+    "description": "Anime porn #nsfw"
+  }, {
+    "name": "e621",
+    "url": "https://e621.net/posts?tags=%s",
+    "description": "Furry #nsfw"
+  }, {
+    "name": "yande.re",
+    "url": "https://yande.re/post?tags=%s",
+    "description": "#nsfw"
+  }, {
+    "name": "Fur Affinity",
+    "url": "https://www.furaffinity.net/search/?q=%s",
+    "description": "Furry #nsfw"
+  }]
+}, {
+  "type": "Beauty",
+  "icon": "person-dress",
+  "openInNewTab": true,
+  "sites": [{
+    "name": "1Y Beauties",
+    "url": "https://www.1y.is/random/",
+    "description": "Randomly browse sexy images"
+  }, {
+    "name": "Meitu131",
+    "url": "https://www.meitu131.com/e/sch/index.php?keyboard=%s"
+  }, {
+    "name": "JK",
+    "url": "https://www.jk.rs/%p{s=%s}",
+    "icon": "https://www.jk.rs/usr/themes/photograph/favicon.png"
+  }, {
+    "name": "fulitu",
+    "url": "https://www.fulitu.cc/%p{s=%s}",
+    "icon": "https://www.fulitu.cc/usr/themes/photograph/favicon.png"
+  }, {
+    "name": "JDLINGYU",
+    "url": "https://www.jdlingyu.com?s=%s&type=post"
+  }, {
+    "name": "itotii",
+    "url": "https://www.itotii.net/?s=%s",
+    "description": "美少女で一息。。"
+  }, {
+    "name": "Ikanins",
+    "url": "https://www.ikanins.com/?s=%s",
+    "description": "Instagram celebrity beauty recommendations"
+  }, {
+    "name": "Ciyuandao",
+    "url": "http://ciyuandao.com/photo?key=%s",
+    "description": "One-stop coser growth platform | cos feature film | cosplay picture | cos beautiful picture"
+  }, {
+    "name": "Yalayi",
+    "url": "https://www.yalayi.com/search/?k=%s"
+  }, {
+    "name": "Meirentu",
+    "url": "https://meirentu.top/s/%s.html"
+  }, {
+    "name": "Tuiimg",
+    "url": "https://www.tuiimg.com/search/%p{skey=%s}#from{meinv/}"
+  }, {
+    "name": "Vvavm",
+    "url": "https://www.vvavm.com/?s=%s",
+    "description": "High-definition beauty photo station"
+  }, {
+    "name": "RMM8",
+    "url": "https://rmm8.com/tag/1259.html%p{tbname=photo&tempid=1&show=title&keyboard=%s}#from{tag/1259.html}",
+    "description": "Sexy pictures - Sexy photos - Appreciation of sexy pictures"
+  }, {
+    "name": "Meinv",
+    "url": "https://www.meinv.im/search/?s=%s",
+    "icon": "https://www.meinv.im/static/favicon.ico"
+  }]
+}]

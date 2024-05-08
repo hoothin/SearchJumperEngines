@@ -1,0 +1,545 @@
+[
+  {
+    "icon": "robot",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Edit this collection",
+        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/AI/main_en.json",
+        "description": "Pull request to edit this collection on github"
+      },
+      {
+        "name": "Bard",
+        "url": "https://bard.google.com/chat#p{.ql-editor.textarea=%s}",
+        "icon": "https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg",
+        "description": "A collaborative AI tool developed by Google to help bring your ideas to life."
+      },
+      {
+        "name": "Poe - Sage AI Chat",
+        "url": "https://poe.com/#p{sleep(2000)&[class*\\=ChatMessageInputContainer]>textarea=%s&click([class*\\=ChatMessageSendButton])}",
+        "description": "Poe lets you ask questions, get instant answers, and have back-and-forth conversations with AI. Gives access to GPT-4, gpt-3.5-turbo, Claude from Anthropic, and a variety of other bots."
+      },
+      {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com/#p{#prompt-textarea=%s&click(#prompt-textarea+button)}",
+        "description": "ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place."
+      },
+      {
+        "description": "Futurepedia is a free site to help you find the best AI tools and software to make your work and life more efficient and productive.",
+        "name": "Futurepedia",
+        "url": "https://www.futurepedia.io/#p{input[name\\=q]=%s&click(button[type\\=submit]:not([disabled]))}"
+      },
+      {
+        "name": "AI研究所",
+        "url": "https://www.aiyjs.com/?s=%s",
+        "description": "AI tools"
+      },
+      {
+        "name": "快搜",
+        "url": "https://m.kuaisou.com/web/%s",
+        "description": "Search with AI"
+      },
+      {
+        "description": "Search the world's information with Phind's AI answer engine. Get the answer you're looking for in seconds instead of hours.",
+        "name": "phind",
+        "url": "https://www.phind.com/search?q=%s"
+      }
+    ],
+    "type": "Common"
+  },
+  {
+    "icon": "image",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Stable Diffusion",
+        "url": "https://stability.ai/",
+        "description": "Stable Diffusion is a deep learning, text-to-image model released in 2022 based on diffusion techniques. It is considered to be a part of the ongoing AI spring."
+      },
+      {
+        "name": "Midjourney",
+        "url": "https://www.midjourney.com/",
+        "description": "Midjourney is a generative artificial intelligence program and service created and hosted by San Francisco–based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called prompts, similar to OpenAI's DALL-E and Stability AI's Stable Diffusion."
+      },
+      {
+        "description": "DALL·E 2 is an AI system that can create realistic images and art from a description in natural language.",
+        "name": "Dall·E 2",
+        "url": "https://openai.com/dall-e-2"
+      },
+      {
+        "name": "NovelAI",
+        "url": "https://novelai.net/",
+        "icon": "https://novelai.net/icons/novelai-round.png",
+        "description": "GPT-powered AI Storyteller. Driven by AI, construct unique stories, thrilling tales, seductive romances, or just fool around. Anything goes!"
+      },
+      {
+        "name": "Magic Studio",
+        "url": "https://magicstudio.com/",
+        "description": "Magic Studio - AI image and photo editor, remove objects, backgrounds, create images from text, upscale images and much much more. An AI sidekick that helps anybody be a master image editing."
+      },
+      {
+        "name": "PlaygroundAI",
+        "url": "https://playgroundai.com/",
+        "description": "Playground is a free-to-use online AI image creator. Use it to create art, social media posts, presentations, posters, videos, logos and more."
+      },
+      {
+        "name": "ProfilePicture",
+        "url": "https://www.profilepicture.ai/",
+        "description": "Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate pfps of you that looks perfect and captures who you are. Make a profile picture with AI, you can be anything, anywhere, or anyone!"
+      },
+      {
+        "name": "Pebblely",
+        "url": "https://pebblely.com/",
+        "description": "Boring product photos? Pebblely helps you create beautiful photos in seconds with AI"
+      },
+      {
+        "name": "Pixela.ai",
+        "url": "https://pixela.ai/",
+        "description": "AI Generated Game Textures"
+      },
+      {
+        "name": "Stockimg AI",
+        "url": "https://stockimg.ai/",
+        "description": "Stockimg is an all in one design and content creation tool powered by AI. You can easily generate logo, illustration, wallpaper, poster and more."
+      },
+      {
+        "name": "Craiyon",
+        "url": "https://www.craiyon.com/",
+        "description": "Craiyon is an AI model that can draw images from any text prompt!"
+      },
+      {
+        "name": "Generated Photos",
+        "url": "https://generated.photos/",
+        "icon": "https://static.generated.photos/vue-static/favicon.png",
+        "description": "AI-generated images have never looked better. Explore and download our diverse, copyright-free headshot images from our production-ready database."
+      },
+      {
+        "name": "Nvidia GET3D",
+        "url": "https://research.nvidia.com/labs/toronto-ai/GET3D/",
+        "icon": "https://www.nvidia.com/favicon.ico",
+        "description": "A Generative Model of High Quality 3D Textured Shapes Learned from Images"
+      },
+      {
+        "name": "SolidGrids",
+        "url": "https://www.solidgrids.com/",
+        "icon": "https://framerusercontent.com/modules/t8JqigvL6vA6qRY1QnoW/2teY5JJ5Mj30dm2c0hSt/assets/e9t4lCoxLEMlVCfF6iPVI38XLKM.png",
+        "description": "Configure it once and automate your images forever without intervention—no need to review. Photos are ready to publish. Adjust backgrounds, lighting, banners, and more to fit your company branding."
+      },
+      {
+        "name": "Piggy Magic",
+        "url": "https://piggy.to/magic",
+        "icon": "https://piggy.to/favicon-32x32.png",
+        "description": "Enter a short text to get a mobile story\nthat you can download as video or images"
+      },
+      {
+        "name": "Waifu Labs",
+        "url": "https://waifulabs.com/",
+        "icon": "https://waifulabs.com/images/favicon.png",
+        "description": "A state-of-the-art AI that draws custom anime portraits, just for you! This machine learning artist figures out your preferences and creates a perfect character illustration in 4 easy steps."
+      },
+      {
+        "name": "Lexica",
+        "url": "https://lexica.art/",
+        "description": "The state of the art AI image generation engine."
+      },
+      {
+        "name": "Scenario",
+        "url": "https://www.scenario.com/",
+        "icon": "https://assets-global.website-files.com/64808ef3e6895ba2a0075c4a/6499c1c9e199dce570b9a550_logo.png",
+        "description": "Generate premium-quality, style-consistent game assets with unmatched ease and control!"
+      },
+      {
+        "name": "Phygital+",
+        "url": "https://phygital.plus/",
+        "description": "Node-based AI workspace for creators to work with neural networks without code. (Alpha)"
+      },
+      {
+        "name": "LeiaPix",
+        "url": "https://www.leiapix.com/",
+        "icon": "https://assets-global.website-files.com/65326edc4027c70cb821c33a/655bb16afb8dbc8b50da73c0_favicon.png",
+        "description": "Transform 2D images into eye-catching 3D animations using our advanced and user-friendly 3D animation software. Join the forefront of 3D technology with LeiaPix.com"
+      },
+      {
+        "name": "niji · journey",
+        "url": "https://nijijourney.com/",
+        "icon": "https://nijijourney.com/assets/sizigi/favicon-32x32.png",
+        "description": "Let's make magic anime pictures. Made by Midjourney & Spellbrush."
+      },
+      {
+        "name": "ARC tencent",
+        "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration",
+        "icon": "https://arc.tencent.com/logo.ico",
+        "description": "The image enhancer produced by Tencent."
+      },
+      {
+        "name": "Baidu Yige",
+        "url": "https://yige.baidu.com/#/",
+        "icon": "https://yige.baidu.com/favicon.png",
+        "description": "Wenxin Yige, an AI art and creative assistance platform."
+      },
+      {
+        "name": "PhotoRoom",
+        "url": "https://www.photoroom.com/",
+        "icon": "https://www.photoroom.com/favicons/favicon.ico",
+        "description": "Create product and portrait pictures using only your phone and our AI photo editing tools. Remove background, change background and showcase products."
+      },
+      {
+        "name": "getimg.ai",
+        "url": "https://getimg.ai/",
+        "icon": "https://getimg.ai/icons/favicon-32x32.png",
+        "description": "Magical AI art tools. Generate original images, modify existing ones, expand pictures beyond their borders, and more."
+      },
+      {
+        "name": "Easy-Peasy.AI",
+        "url": "https://easy-peasy.ai/",
+        "icon": "https://easy-peasy.ai/favicon/favicon-32x32.png",
+        "description": "Your One-Stop Solution for Content Creation, Image Crafting, Audio Generation, and AI Transcription."
+      },
+      {
+        "name": "Tome",
+        "url": "https://tome.app/edu",
+        "description": "Tome is more engaging than a slide deck, and easier to build than a webpage. Use AI to quickly create multimedia presentations, microsites, and more."
+      },
+      {
+        "name": "beautiful.ai",
+        "url": "https://www.beautiful.ai/",
+        "description": "Beautiful.ai is the best AI-powered presentation software for teams. Stay on brand, level up and automate presentation design, and collaborate from anywhere."
+      },
+      {
+        "name": "NightCafe",
+        "url": "https://nightcafe.studio/",
+        "icon": "https://creator.nightcafe.studio/favicon-32x32.png",
+        "description": "AI Art Generator App. Fast Free Easy. Create amazing artworks using artificial intelligence."
+      },
+      {
+        "name": "js.design",
+        "url": "https://js.design/AI-gallery",
+        "icon": "https://img.js.design/assets/webImg/favicon.ico",
+        "description": "A professional-grade UI design tool that supports online collaboration. It supports the import of Sketch, Figma, and XD formats, and a large number of high-quality design resources are ready for use. Supports the creation of interactive prototypes and acquisition of design annotations, providing a one-stop collaborative office experience for production, design and research teams."
+      },
+      {
+        "name": "AutoDraw",
+        "url": "https://www.autodraw.com/",
+        "icon": "https://www.autodraw.com/assets/images/favicon.png",
+        "description": "Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast."
+      },
+      {
+        "name": "Adobe Firefly",
+        "url": "https://firefly.adobe.com/",
+        "icon": "https://firefly.adobe.com/firefly_favicon.ico",
+        "description": "A product of Adobe Creative Cloud, is a generative machine learning model that is used in the field of design. It is in the public beta test phase."
+      },
+      {
+        "name": "midlibrary",
+        "url": "https://midlibrary.io/search?query=%s",
+        "icon": "https://assets-global.website-files.com/638266c083c0cd991057c455/6427112a37d94a0a80e183c1_favicon-32x32.png",
+        "description": "Search prompt for midjourney"
+      },
+      {
+        "name": "XtimesAI",
+        "url": "https://www.xtimesai.com/?keyword=%s",
+        "description": "Search models for Stable Diffusion"
+      }
+    ],
+    "type": "AI Picture"
+  },
+  {
+    "type": "AI Video",
+    "icon": "video",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Synthesia",
+        "url": "https://www.synthesia.io/",
+        "icon": "https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc0796f359b6681ac07045_favicon.ico",
+        "description": "Create professional videos without mics, cameras, or actors with AI Video Generator with the help of AI avatars and voiceovers — in over 120 languages."
+      },
+      {
+        "name": "Fliki",
+        "url": "https://fliki.ai/",
+        "icon": "https://storage.googleapis.com/fliki/public/favicon/favicon.ico",
+        "description": "Create text to video and text to speech content with ai powered voices in minutes. Get started today and create videos and voiceovers with life-like AI voices!"
+      },
+      {
+        "name": "Runway",
+        "url": "https://runwayml.com/",
+        "icon": "https://runwayml.com/icons/icon-dark.png",
+        "description": "Runway AI is a multimodal system that can generate novel videos with text, images or video clips."
+      },
+      {
+        "name": "Pollinations",
+        "url": "https://pollinations.ai/",
+        "description": "Pollinations is a platform to generate media with the help of AI. Here you can create customized, royalty-free pieces of audio, images, 3D objects and soon fully immersive 3D environments on the fly."
+      },
+      {
+        "name": "Munch",
+        "url": "https://www.getmunch.com/",
+        "icon": "https://assets-global.website-files.com/63ba8e823d3d7a927e5c2971/63ea607ca1d56435097c155c_Group%2035813.png",
+        "description": "Munch allows you to create once. Repurpose to Dozens of pieces on every platform. Analyze engagement. Control Monetization. All On One Platform."
+      },
+      {
+        "name": "D-ID",
+        "url": "https://www.d-id.com/",
+        "icon": "https://www.d-id.com/wp-content/uploads/2023/11/d-id-logo-favicon-black.svg",
+        "description": "Introducing NUI the Natural User Interface, aimed at revolutionizing how people interact with anything digital leveraging the power of AI"
+      },
+      {
+        "name": "Cascadeur",
+        "url": "https://cascadeur.com/",
+        "description": "A standalone software for 3D keyframe animation of humanoids or other characters. Never before making animation from scratch or editing one has been so easy and fun. Thanks to its AI-assisted tools, you can make key poses really fast, instantly see the physical results and adjust secondary motion. All while retaining full control at any point."
+      },
+      {
+        "name": "Tavus",
+        "url": "https://www.tavus.io/",
+        "icon": "https://assets-global.website-files.com/63b2f566abde4cad39ba419f/63b73c43424bae3eb4c04c55_favicon.png",
+        "description": "AI personalized video generation platform that personalizes videos of you to each audience member, automatically. Customize videos with unique voice variables, and drive repeat conversions long after you hit send."
+      },
+      {
+        "name": "Notevibes",
+        "url": "https://notevibes.com/",
+        "icon": "https://notevibes.com/img/favicon.ico",
+        "description": "Instantly convert your text into natural-sounding speech. 221+ Premium Female and Male voices."
+      },
+      {
+        "name": "Hour One",
+        "url": "https://hourone.ai/",
+        "description": "AI text to video generator with customized video templates, AI avatars in different languages, and more."
+      },
+      {
+        "name": "Rephrase.ai",
+        "url": "https://www.rephrase.ai/",
+        "icon": "https://assets-global.website-files.com/6307393e40826809fbf8dabe/630e057222283f3afdcd4397_Frame%2017528.png",
+        "description": "A text-to-video generation platform that eliminates the complexity of video production, enabling you to create professional-looking videos with a digital avatar in minutes."
+      },
+      {
+        "name": "腾讯智影",
+        "url": "https://zenvideo.qq.com/",
+        "description": "AI video creation tool"
+      }
+    ]
+  },
+  {
+    "icon": "newspaper",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Jenni AI",
+        "url": "https://jenni.ai/",
+        "icon": "https://framerusercontent.com/images/A1XT0IcEx0BUzCSt77LCW7okg.png",
+        "description": "Jenni is your AI assistant for all things in your academic journey. We specialise in developing AI that helps you make your writing more efficient, while still keeping control."
+      },
+      {
+        "name": "Rytr",
+        "url": "https://rytr.me/",
+        "icon": "https://storage.googleapis.com/rytr-me/public/favicon/favicon-32x32.png",
+        "description": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!"
+      },
+      {
+        "name": "讯飞星火",
+        "url": "https://xinghuo.xfyun.cn/",
+        "description": "A new generation of cognitive intelligence large model launched by iFlytek. It has cross-domain knowledge and language understanding capabilities. It can understand and perform tasks based on natural dialogue, providing language understanding, knowledge Q&A, Logical reasoning, mathematical problem solving, code understanding and writing and other abilities."
+      },
+      {
+        "name": "Article Fiesta",
+        "url": "https://articlefiesta.com/",
+        "icon": "https://articlefiesta.com/static/favicon.ico",
+        "description": "An artificial intelligence writer to generate article content for you! Article Fiesta will save time and money while improving the quality of your site ranking."
+      },
+      {
+        "name": "Writesonic",
+        "url": "https://writesonic.com/",
+        "icon": "https://d1q5p2nadm4152.cloudfront.net/public/images/favicon.ico",
+        "description": "SEO & AI Synergy: Create and Optimize all types of Content, Outsmart Competitors by decoding their secrets and leveraging trending keywords to boost your organic traffic."
+      },
+      {
+        "name": "Notion AI",
+        "url": "https://www.notion.so/product/ai",
+        "icon": "https://www.notion.so/front-static/favicon.ico",
+        "description": "Get answers to your urgent questions, using info across your wiki, projects & docs."
+      },
+      {
+        "name": "Copy.ai",
+        "url": "https://www.copy.ai/",
+        "icon": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/658311295861d76598256dae_favicon%209.png",
+        "description": "Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!"
+      },
+      {
+        "name": "LongShot",
+        "url": "https://www.longshot.ai/",
+        "icon": "https://assets-global.website-files.com/62a1d5337c2a860b919132f8/62c972456d27694153c0f914_LongShot%20favicon.png",
+        "description": "Think ChatGPT for teams and enterprises. Research, generate, optimize content. Upload your docs, fact check, ensure zero hallucinations, integrate anywhere."
+      },
+      {
+        "name": "Jasper",
+        "url": "https://www.jasper.ai/",
+        "icon": "https://assets-global.website-files.com/60e5f2de011b86acebc30db7/60e5f2de011b86e6acc31077_Favicon.png",
+        "description": "Jasper is an AI copilot for enterprise marketing teams who want better outcomes, not just faster outputs."
+      },
+      {
+        "name": "CoWriter",
+        "url": "https://cowriter.org/login",
+        "description": "Cowriter is an AI-powered text editor and copy generator designed to empower writers and revolutionize the creative writing process. Instantly generate content such as blogs, essays, emails, ads, and more."
+      },
+      {
+        "name": "Hoppy Copy",
+        "url": "https://www.hoppycopy.co/",
+        "icon": "https://assets-global.website-files.com/64a4aaf614f9983555a7fbe8/64e11a613759ac224c78c8b1_favicon.png",
+        "description": "Save countless hours writing. Use AI to generate powerful copy for hundreds of different email marketing campaigns, drips, newsletters and more—in seconds ⚡"
+      },
+      {
+        "name": "Yaara",
+        "url": "https://www.yaara.ai/",
+        "description": "Use AI to write proven, high-converting copy for increased conversions and higher ROI. Instantly generate top-notch copy for ads, emails, websites, listings, blogs, stories, and more..."
+      },
+      {
+        "name": "Fireflies",
+        "url": "https://fireflies.ai/",
+        "description": "Fireflies uses generative AI to bring ChatGPT to meetings. Generate transcripts and smart summaries for Zoom, Google Meet, Microsoft Teams, Webex and several other platforms."
+      },
+      {
+        "name": "Glasp",
+        "url": "https://glasp.co/",
+        "icon": "https://glasp.co/src/img/glasp_logo.png",
+        "description": "Glasp is a social web highlighter that people can highlight and organize quotes and thoughts from the web, and access other like-minded people’s learning."
+      },
+      {
+        "name": "MagickPen",
+        "url": "https://magickpen.com/",
+        "description": "Write Anything in Seconds Just like Magick"
+      }
+    ],
+    "type": "AI Article"
+  },
+  {
+    "type": "AI Audio",
+    "icon": "headphones",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Papercup",
+        "url": "https://www.papercup.com/",
+        "description": "Lifelike AI voices, perfected by real translators"
+      },
+      {
+        "name": "Mubert",
+        "url": "https://mubert.com/",
+        "description": "The new royalty-free music ecosystem for content creators, brands and developers 🔥 Come See How Our High-Quality Music Can Elevate Your Content ⏩"
+      },
+      {
+        "name": "Murf AI",
+        "url": "https://murf.ai/",
+        "icon": "https://assets-global.website-files.com/6215d56ae85caa0a3026a433/6241d0ccef69062a2cd3986f_Murf-logo-32.ico",
+        "description": "Go from text to speech with a versatile AI voice generator"
+      },
+      {
+        "name": "LALAL.AI",
+        "url": "https://www.lalal.ai/",
+        "description": "Extract vocal, accompaniment and various instruments from any audio and video"
+      },
+      {
+        "name": "Plaud",
+        "url": "https://plaud.ai/",
+        "description": "Al voice recorder powered by ChatPT, capturing meetings, iPhone calls, and voice memos with ease."
+      },
+      {
+        "name": "AIVA",
+        "url": "https://www.aiva.ai/",
+        "icon": "https://www.aiva.ai/assets/img/favicon.ico",
+        "description": "AI music generation assistant"
+      },
+      {
+        "name": "Mubert TTM",
+        "url": "https://huggingface.co/spaces/OneAfterlife/MubertTTM",
+        "description": "Mubert Text to Music"
+      },
+      {
+        "name": "网易天音",
+        "url": "https://tianyin.music.163.com/#/",
+        "icon": "https://s7.music.126.net/6369f9ec78c25c1818ccfc08/img/favicon_021f7155.ico",
+        "description": "AI music creation tools by NetEase."
+      },
+      {
+        "name": "Uberduck",
+        "url": "https://www.uberduck.ai/",
+        "icon": "https://assets-global.website-files.com/64a1b8b52c90dcbcdf097075/64a1bb7f6265165d6dd941a5_Logo%20-%20upscale-1.png",
+        "description": "Generate high-quality voices by synthesizing your text with Uberduck's realistic voices or your own custom voices."
+      },
+      {
+        "name": "MusicLM",
+        "url": "https://google-research.github.io/seanet/musiclm/examples/",
+        "icon": "https://google.com/favicon.ico",
+        "description": "Generating Music From Text by Google"
+      }
+    ]
+  },
+  {
+    "icon": "screwdriver-wrench",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Soofy",
+        "url": "https://soofy.io/",
+        "icon": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fa117f7b6393a1c79e27de25e2692c431.cdn.bubble.io%2Ff1666861549983x443758524707554800%2Ficonsoofy.png?w=128&h=&auto=compress&dpr=1&fit=max",
+        "description": "Soofy, the best application to practice your language skills"
+      },
+      {
+        "name": "Cody",
+        "url": "https://meetcody.ai/",
+        "icon": "https://meetcody.ai/wp-content/themes/cody_v1/assets/images/cody_logo_icon.svg",
+        "description": "Your AI Assistant for Business"
+      },
+      {
+        "name": "CharacterGPT",
+        "url": "https://alethea.ai/characterGPT.html",
+        "icon": "https://alethea.ai/assets/img/favicon.ico",
+        "description": "CharacterGPT is the world’s first multimodal generative AI system that can create interactive AI Characters from a description in natural language. In short, it enables Text-to-Character Generation or TTC."
+      },
+      {
+        "name": "character.ai",
+        "url": "https://beta.character.ai/",
+        "icon": "https://characterai.io/static/favicon_v2.ico",
+        "description": "character.ai is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers."
+      },
+      {
+        "name": "AirOps",
+        "url": "https://www.airops.com/",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA3lJREFUWEftlltIFFEYx//njK6ibklZpoJBUGGUD1rbzcDIh8gkq4eyDCIozYpI6aIpYoWXwG52NYKoLKKbmt3ARDCLFvQl6iUw7GL3MnXL3XVm4pycaWd3dlbtoZc9L8Oc+c45v+//XeaQsJlTZPzHQfwAfgX8CvgV8CtgpEBS4mykJS/ijbqh+SFa2p5i7dIV/L2m4abawCdGxSA1OQXxU+LQ+f4dHrVZue1QhtdWfKq4HJlLl2v2KK0+joJNW/mcedZU/szfuE2dY+/ipw8Y6HqDuvu3cfT6FXQSgh8gXll0AZiXp4vL+KKys1WoabiFpAQLKnILMNo8SgVQ7GS7HbV5WYi0PkLUgAgaEgJKKex2OwIddjwjFJepgNtE8ADRBbh7+iIWJFr4wdkle9RFrmBMAWaX2NuNt4W5EG29CDHQvA/AG0JRTAPwglDVUhfgeV0TYqNjsCR7HVrarKpxbFQMntc3qQp0bN+JX1UVkB2OoYSb2/QD2CaY8GQQwhAgY+cWNDQ3qpuzJGutqeXvy2ZOxjHmiPPv4cGWeYjYfxjC+AkaIJYXX4p2oN/6mM/bAGQIQeggBCMKAYt5+5ypiID2LhOaugJj8g+AhoYaArCPVkKxQTDpA7D4s/iysbuyFC3tVp4TBRu38iTsuXQO7yr3ecQ8PCcPo9ZvhvT9q8Zjvfj8BLDdGwBbwMqNlZjrYBXB5rrSF8LZ2eGxb+SZywi2zIez4yW6Vqb4zIs7VNBXQFnJvGbNKNxs5rnAEjI7ZTFyHtSDypLHAdE3GhE4abJm3gjmM7zkgBF6gizhhOiA2c3IWwIyMyOIYV9K58oSDukAKAlITCb0nD+F7pOVGFt8EGHpqyA7neqcK/cAYBwCPSXiZQnVohNhbhWgZ+uqSl/tVXwt2aWtjpEAjIaM1gG7x3mKt5LNhm9lhbDduQlfAG+99QFf6XtFdGCGWxK69oB+ays+Zq3xGYJLNGD4IWBwabKIvTwM2qGUobsDCpDrPOufmUZ9wJcK10QH4nRK0R1C73D2P7hHBRTRwJEpwOCmyRIuiA4E+yLV+f6KEKwWgvg/Ydhl6LofK8kjogPazu+diHn+nhBsoSa8Jn8uKf8EwDaYJMsolJyYLkuG9wEWc9Z6y2kg91wZ/wygbMTUSJdFWCQJ4yCDN5lBj5uJgHpCNRcRZd1vSVKP1CWPZtMAAAAASUVORK5CYII=",
+        "description": "Create LLM-powered Workflows, Tools and Chat Agents that delight your users and team. From idea to production, remarkably fast."
+      },
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "description": "Codeium offers best in class AI code completion, search, and chat — all for free. It supports over 70+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality."
+      },
+      {
+        "name": "Learning Prompt",
+        "url": "https://learningprompt.wiki/",
+        "icon": "https://learningprompt.wiki/img/favicon.ico",
+        "description": "Free Prompt Engineering and Midjourney tutorial."
+      },
+      {
+        "name": "AI帮个忙",
+        "url": "https://aibang.run/",
+        "icon": "https://aibang.run/favicon-32x32.png",
+        "description": "AI tools"
+      },
+      {
+        "name": "Perplexity",
+        "url": "https://www.perplexity.ai/search?q=%s",
+        "description": "Perplexity AI unlocks the power of knowledge with information discovery and sharing."
+      },
+      {
+        "name": "Andi",
+        "url": "https://andisearch.com/?q=%s",
+        "description": "Andi is search for the next generation using generative AI. Instead of just links, Andi gives you answers - like chatting with a smart friend"
+      }
+    ],
+    "type": "AI Tools"
+  },
+  {
+    "icon": "graduation-cap",
+    "openInNewTab": true,
+    "sites": [],
+    "type": "AI Tutorials"
+  }
+]

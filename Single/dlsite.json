@@ -1,0 +1,7 @@
+{
+  "hideNotMatch": true,
+  "match": "^https?://www\\.dlsite\\.com",
+  "name": "DLsite bulk add all products",
+  "url": "#p{loopStart(1)&click(a.btn_cart)&loopEnd}",
+  "icon": "https://www.dlsite.com/favicon.ico"
+}
