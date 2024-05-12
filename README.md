@@ -4,8 +4,7 @@
 
 **Search engines and resource URLs collections for 🔍[SearchJumper](https://search.hoothin.com/ "搜索酱 搜尋醬").**
 
-> Feel free to submit a PR with your website. Even if it's for promotional or marketing purposes, it's absolutely fine.<br>
-> 歡迎 PR 按照分類填入您的網站網址。 即便是為了推廣促銷也沒有任何問題。
+> Feel free to submit a PR with your website. Even if it's for promotional or marketing purposes, it's absolutely fine.
 
 | [🤖AI](AI) | [🏞️Image](Image) | [🧩Misc](Misc) |
 |---|---|---|
