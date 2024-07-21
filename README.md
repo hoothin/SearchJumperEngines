@@ -12,16 +12,16 @@
 | [简体中文](https://search.hoothin.com/set/ai_zh.html) | [简体中文](https://search.hoothin.com/set/img_zh.html) | [简体中文](https://search.hoothin.com/set/misc_zh.html)  [🔧](https://github.com/hoothin/SearchJumperEngines/edit/main/Misc/main_zh.json) |
 | [正體中文](https://search.hoothin.com/set/ai_tw.html) | [正體中文](https://search.hoothin.com/set/img_tw.html) | [正體中文](https://search.hoothin.com/set/misc_tw.html)  [🔧](https://github.com/hoothin/SearchJumperEngines/edit/main/Misc/main_tw.json) |
 
-+ Others
-  - [Single Engine](Single)
++ Others: 
+[Single Engine](Single)
  
 ## Contributing
 
 If you're interested in helping, you can contribute in several ways:
 
-1. Reporting Issues: Feel free to use the issue tracker to report bugs or request features.
-2. Submitting Pull Requests: If you come across an interesting website, submit a pull request with a clear description of your changes.
-3. Providing Feedback: Share your thoughts on the project's current features and suggest improvements.
++ Reporting Issues: Feel free to use the issue tracker to report bugs or request features.
++ Submitting Pull Requests: If you come across an interesting website, submit a pull request with a clear description of your changes.
++ Providing Feedback: Share your thoughts on the project's current features and suggest improvements.
 
 ## License
 
