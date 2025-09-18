@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-> A curated collection of search engine configurations for the 🔍[SearchJumper](https://github.com/hoothin/search-jumper) browser extension.
+> A curated collection of search engine configurations for the 🔍[SearchJumper](https://github.com/hoothin/searchjumper) browser extension.
 
 #### Collection Links
 
@@ -39,7 +39,7 @@ If you have a website or a useful tool you'd like to add, contributions are welc
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-> 🔍[搜索酱](https://github.com/hoothin/search-jumper) 浏览器扩展的精选搜索引擎配置集合
+> 🔍[搜索酱](https://github.com/hoothin/searchjumper) 浏览器扩展的精选搜索引擎配置集合
 
 #### 合集链接
 
@@ -72,7 +72,7 @@ If you have a website or a useful tool you'd like to add, contributions are welc
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
-> 🔍[搜尋醬](https://github.com/hoothin/search-jumper) 瀏覽器擴充的精選搜尋引擎配置集合
+> 🔍[搜尋醬](https://github.com/hoothin/searchjumper) 瀏覽器擴充的精選搜尋引擎配置集合
 
 #### 合集連結
 
