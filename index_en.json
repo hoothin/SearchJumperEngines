@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Index",
+    "icon": "toolbox",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Edit this collection",
+        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/index_en.json",
+        "description": "Pull request to edit this collection on github"
+      },
+      {
+        "name": "Image",
+        "url": "https://search.hoothin.com/set/image_en.html",
+        "description": "Image search and asset tools"
+      },
+      {
+        "name": "AI",
+        "url": "https://search.hoothin.com/set/ai_en.html",
+        "description": "AI tools and resources"
+      },
+      {
+        "name": "Misc",
+        "url": "https://search.hoothin.com/set/misc_en.html",
+        "description": "Misc utilities and handy lookups"
+      },
+      {
+        "name": "SEO",
+        "url": "https://search.hoothin.com/set/seo_en.html",
+        "description": "SEO tools and resources"
+      }
+    ]
+  }
+]

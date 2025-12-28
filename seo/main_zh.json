@@ -1,0 +1,217 @@
+[
+  {
+    "type": "全能型SEO工具",
+    "icon": "toolbox",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Edit this collection",
+        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/seo/main_zh.json",
+        "description": "前往GitHub提交PR修改此合集"
+      },
+      {
+        "name": "Ahrefs",
+        "url": "https://ahrefs.com/",
+        "description": "关键词研究、链接分析、内容优化全方位支持。"
+      },
+      {
+        "name": "semrush",
+        "url": "https://www.semrush.com/",
+        "description": "关键词、内容、竞品、PPC、社交媒体全覆盖。"
+      },
+      {
+        "name": "Moz Pro",
+        "url": "https://moz.com/",
+        "description": "提升流量、排名和可见性的SEO软件。"
+      },
+      {
+        "name": "SERanking",
+        "url": "https://seranking.com/",
+        "description": "面向机构的全能SEO工具。"
+      },
+      {
+        "name": "Ubersuggest",
+        "url": "https://neilpatel.com/ubersuggest/",
+        "description": "简单易用的SEO工具，适合新手。"
+      }
+    ]
+  },
+  {
+    "type": "关键词研究工具",
+    "icon": "key",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Google Keyword Planner",
+        "url": "https://ads.google.com/home/tools/keyword-planner/",
+        "description": "Google官方提供的免费关键词研究工具。"
+      },
+      {
+        "name": "Keyword Tool",
+        "url": "https://keywordtool.io/",
+        "description": "基于Google自动补全的关键词工具。"
+      },
+      {
+        "name": "AnswerThePublic",
+        "url": "https://answerthepublic.com/",
+        "description": "直观展示用户搜索问题的关键词工具。"
+      },
+      {
+        "name": "Ahrefs' Keywords Generator",
+        "url": "https://ahrefs.com/keyword-generator",
+        "description": "提供海量关键词推荐。"
+      },
+      {
+        "name": "Semrush's Keyword Magic Tool",
+        "url": "https://www.semrush.com/analytics/keywordmagic/start",
+        "description": "专业的关键词推荐工具。"
+      }
+    ]
+  },
+  {
+    "type": "外链分析工具",
+    "icon": "link",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Majestic",
+        "url": "https://majestic.com/",
+        "description": "专注于外链的分析工具。"
+      },
+      {
+        "name": "Monitor Backlinks",
+        "url": "https://monitorbacklinks.com/",
+        "description": "轻松管理好坏外链。"
+      }
+    ]
+  },
+  {
+    "type": "内容优化工具",
+    "icon": "pen-nib",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Yoast SEO",
+        "url": "https://yoast.com/",
+        "description": "WordPress用户的必备SEO插件。"
+      },
+      {
+        "name": "SurferSEO",
+        "url": "https://surferseo.com/",
+        "description": "提供SEO内容优化的工作流。"
+      },
+      {
+        "name": "Clearscope",
+        "url": "https://www.clearscope.io/",
+        "description": "内容优化的高效工具。"
+      }
+    ]
+  },
+  {
+    "type": "排名追踪工具",
+    "icon": "chart-line",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "SERPWatcher",
+        "url": "https://serpwatch.io/",
+        "description": "专为市场营销和机构设计的排名追踪工具。"
+      },
+      {
+        "name": "AccuRanker",
+        "url": "https://www.accuranker.com/",
+        "description": "精确快速的排名监控工具。"
+      }
+    ]
+  },
+  {
+    "type": "技术SEO工具",
+    "icon": "gear",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Google Search Console",
+        "url": "https://search.google.com/search-console/about",
+        "description": "免费的Google官方工具，用于监控和优化网站的搜索表现。"
+      },
+      {
+        "name": "Screaming Frog SEO Spider",
+        "url": "https://www.screamingfrog.co.uk/seo-spider/#spider-features",
+        "description": "高效的网站SEO抓取工具。"
+      },
+      {
+        "name": "Siteliner",
+        "url": "https://www.siteliner.com/",
+        "description": "检测重复内容、断链等问题。"
+      }
+    ]
+  },
+  {
+    "type": "本地SEO工具",
+    "icon": "location-dot",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "BrightLocal",
+        "url": "https://www.brightlocal.com/local-seo-tools/",
+        "description": "本地SEO优化的完整平台。"
+      },
+      {
+        "name": "Moz Local",
+        "url": "https://moz.com/products/local",
+        "description": "提升本地SEO可见性的工具。"
+      }
+    ]
+  },
+  {
+    "type": "浏览器SEO扩展",
+    "icon": "puzzle-piece",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "SEO Minion",
+        "url": "https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi",
+        "description": "支持页面分析、断链检查等功能。"
+      },
+      {
+        "name": "SEOquake",
+        "url": "https://www.seoquake.com/index.html",
+        "description": "功能强大的SEO浏览器工具。"
+      }
+    ]
+  },
+  {
+    "type": "验证和检查工具",
+    "icon": "circle-check",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Broken Link Checker",
+        "url": "https://www.brokenlinkcheck.com/",
+        "description": "快速检测网站断链。"
+      },
+      {
+        "name": "Robots.txt Checker",
+        "url": "https://support.google.com/webmasters/answer/6062598?hl=en",
+        "description": "检查robots.txt文件是否正确。"
+      }
+    ]
+  },
+  {
+    "type": "性能分析工具",
+    "icon": "gauge",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "GTmetrix",
+        "url": "https://gtmetrix.com/",
+        "description": "提供全面的速度分析报告。"
+      },
+      {
+        "name": "Google Lighthouse",
+        "url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
+        "description": "检测页面加载速度和SEO优化建议。"
+      }
+    ]
+  }
+]

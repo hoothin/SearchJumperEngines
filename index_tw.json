@@ -1,0 +1,34 @@
+﻿[
+  {
+    "type": "索引",
+    "icon": "toolbox",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "編輯此合集",
+        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/index_tw.json",
+        "description": "前往GitHub提交PR修改此合集"
+      },
+      {
+        "name": "圖片",
+        "url": "https://search.hoothin.com/set/image_tw.html",
+        "description": "圖片搜尋與素材工具合集"
+      },
+      {
+        "name": "AI",
+        "url": "https://search.hoothin.com/set/ai_tw.html",
+        "description": "AI 工具與資源合集"
+      },
+      {
+        "name": "雜項",
+        "url": "https://search.hoothin.com/set/misc_tw.html",
+        "description": "雜項與實用工具合集"
+      },
+      {
+        "name": "SEO",
+        "url": "https://search.hoothin.com/set/seo_tw.html",
+        "description": "SEO 工具與資源合集"
+      }
+    ]
+  }
+]

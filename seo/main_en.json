@@ -1,0 +1,217 @@
+[
+  {
+    "type": "All-in-one SEO Tools",
+    "icon": "toolbox",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Edit this collection",
+        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/seo/main_en.json",
+        "description": "Pull request to edit this collection on github"
+      },
+      {
+        "name": "Ahrefs",
+        "url": "https://ahrefs.com/",
+        "description": "All-in-one support for keyword research, backlink analysis, and content optimization."
+      },
+      {
+        "name": "semrush",
+        "url": "https://www.semrush.com/",
+        "description": "Covers keywords, content, competitors, PPC, and social media."
+      },
+      {
+        "name": "Moz Pro",
+        "url": "https://moz.com/",
+        "description": "SEO software to improve traffic, rankings, and visibility."
+      },
+      {
+        "name": "SERanking",
+        "url": "https://seranking.com/",
+        "description": "All-in-one SEO tool for agencies."
+      },
+      {
+        "name": "Ubersuggest",
+        "url": "https://neilpatel.com/ubersuggest/",
+        "description": "Simple, beginner-friendly SEO tool."
+      }
+    ]
+  },
+  {
+    "type": "Keyword Research Tools",
+    "icon": "key",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Google Keyword Planner",
+        "url": "https://ads.google.com/home/tools/keyword-planner/",
+        "description": "Google's free keyword research tool."
+      },
+      {
+        "name": "Keyword Tool",
+        "url": "https://keywordtool.io/",
+        "description": "Keyword ideas based on Google Autocomplete."
+      },
+      {
+        "name": "AnswerThePublic",
+        "url": "https://answerthepublic.com/",
+        "description": "Visualizes user search questions and related keywords."
+      },
+      {
+        "name": "Ahrefs' Keywords Generator",
+        "url": "https://ahrefs.com/keyword-generator",
+        "description": "Provides a large set of keyword suggestions."
+      },
+      {
+        "name": "Semrush's Keyword Magic Tool",
+        "url": "https://www.semrush.com/analytics/keywordmagic/start",
+        "description": "Professional keyword suggestion tool."
+      }
+    ]
+  },
+  {
+    "type": "Backlink Analysis Tools",
+    "icon": "link",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Majestic",
+        "url": "https://majestic.com/",
+        "description": "Focused backlink analysis tool."
+      },
+      {
+        "name": "Monitor Backlinks",
+        "url": "https://monitorbacklinks.com/",
+        "description": "Easily manage good and bad backlinks."
+      }
+    ]
+  },
+  {
+    "type": "Content Optimization Tools",
+    "icon": "pen-nib",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Yoast SEO",
+        "url": "https://yoast.com/",
+        "description": "Essential SEO plugin for WordPress users."
+      },
+      {
+        "name": "SurferSEO",
+        "url": "https://surferseo.com/",
+        "description": "Workflow for SEO content optimization."
+      },
+      {
+        "name": "Clearscope",
+        "url": "https://www.clearscope.io/",
+        "description": "Efficient content optimization tool."
+      }
+    ]
+  },
+  {
+    "type": "Rank Tracking Tools",
+    "icon": "chart-line",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "SERPWatcher",
+        "url": "https://serpwatch.io/",
+        "description": "Rank tracking designed for marketing teams and agencies."
+      },
+      {
+        "name": "AccuRanker",
+        "url": "https://www.accuranker.com/",
+        "description": "Fast, accurate rank monitoring."
+      }
+    ]
+  },
+  {
+    "type": "Technical SEO Tools",
+    "icon": "gear",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Google Search Console",
+        "url": "https://search.google.com/search-console/about",
+        "description": "Free Google tool to monitor and optimize search performance."
+      },
+      {
+        "name": "Screaming Frog SEO Spider",
+        "url": "https://www.screamingfrog.co.uk/seo-spider/#spider-features",
+        "description": "Efficient website SEO crawler."
+      },
+      {
+        "name": "Siteliner",
+        "url": "https://www.siteliner.com/",
+        "description": "Detects duplicate content, broken links, and more."
+      }
+    ]
+  },
+  {
+    "type": "Local SEO Tools",
+    "icon": "location-dot",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "BrightLocal",
+        "url": "https://www.brightlocal.com/local-seo-tools/",
+        "description": "Complete platform for local SEO optimization."
+      },
+      {
+        "name": "Moz Local",
+        "url": "https://moz.com/products/local",
+        "description": "Tool to improve local SEO visibility."
+      }
+    ]
+  },
+  {
+    "type": "Browser SEO Extensions",
+    "icon": "puzzle-piece",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "SEO Minion",
+        "url": "https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi",
+        "description": "Page analysis, broken link checks, and more."
+      },
+      {
+        "name": "SEOquake",
+        "url": "https://www.seoquake.com/index.html",
+        "description": "Powerful SEO browser extension."
+      }
+    ]
+  },
+  {
+    "type": "Validation and Auditing Tools",
+    "icon": "circle-check",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "Broken Link Checker",
+        "url": "https://www.brokenlinkcheck.com/",
+        "description": "Quickly detects broken links on a site."
+      },
+      {
+        "name": "Robots.txt Checker",
+        "url": "https://support.google.com/webmasters/answer/6062598?hl=en",
+        "description": "Checks whether a robots.txt file is correct."
+      }
+    ]
+  },
+  {
+    "type": "Performance Analysis Tools",
+    "icon": "gauge",
+    "openInNewTab": true,
+    "sites": [
+      {
+        "name": "GTmetrix",
+        "url": "https://gtmetrix.com/",
+        "description": "Comprehensive site speed analysis reports."
+      },
+      {
+        "name": "Google Lighthouse",
+        "url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
+        "description": "Audits page speed and SEO recommendations."
+      }
+    ]
+  }
+]

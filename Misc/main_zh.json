@@ -5,7 +5,7 @@
     "sites": [
       {
         "name": "编辑此合集",
-        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/Misc/main_zh.json",
+        "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/misc/main_zh.json",
         "description": "前往 Github 提交 PR 以修改此合集"
       },
       {
@@ -895,7 +895,8 @@
         "url": "http://www.dianhou.com/",
         "icon": "https://api.iowen.cn/favicon/www.dianhou.com.png",
         "description": "电猴网"
-      },      {
+      },
+      {
         "name": "淘才子",
         "url": "http://www.taocaizi.com/",
         "icon": "https://api.iowen.cn/favicon/www.taocaizi.com.png",
