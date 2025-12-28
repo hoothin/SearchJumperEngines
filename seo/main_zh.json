@@ -5,7 +5,7 @@
     "openInNewTab": true,
     "sites": [
       {
-        "name": "Edit this collection",
+        "name": "编辑此合集",
         "url": "https://github.com/hoothin/SearchJumperEngines/edit/main/seo/main_zh.json",
         "description": "前往GitHub提交PR修改此合集"
       },

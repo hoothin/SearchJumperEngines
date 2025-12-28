@@ -2,7 +2,7 @@
 
 ---
 <a name="english"></a>
-# SearchJumper Engine Collections
+# [SearchJumper Engine Collections](https://search.hoothin.com/set)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,9 +12,9 @@
 
 | Category | Quick Use | Edit on GitHub |
 | :--- | :---: | :---: |
-| **AI** | [Link](https://search.hoothin.com/set/ai_en.html) | [Link](https://github.com/hoothin/SearchJumperEngines/edit/main/AI/main_en.json) |
-| **Image**| [Link](https://search.hoothin.com/set/img_en.html) | [Link](https://github.com/hoothin/SearchJumperEngines/edit/main/Image/main_en.json) |
-| **Misc** | [Link](https://search.hoothin.com/set/misc_en.html) | [Link](https://github.com/hoothin/SearchJumperEngines/edit/main/Misc/main_en.json) |
+| **AI** | [Link](https://search.hoothin.com/set/ai_en.html) | [Link](https://github.com/hoothin/SearchJumperEngines/edit/main/ai/main_en.json) |
+| **Image**| [Link](https://search.hoothin.com/set/img_en.html) | [Link](https://github.com/hoothin/SearchJumperEngines/edit/main/image/main_en.json) |
+| **Misc** | [Link](https://search.hoothin.com/set/misc_en.html) | [Link](https://github.com/hoothin/SearchJumperEngines/edit/main/misc/main_en.json) |
 | **Single**| [Browse Folder](Single/)| — |
 
 #### Usage
@@ -35,7 +35,7 @@ If you have a website or a useful tool you'd like to add, contributions are welc
 ---
 <a name="simplified-chinese"></a>
 
-# 搜索酱引擎合集
+# [搜索酱引擎合集](https://search.hoothin.com/set/zh)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
@@ -45,9 +45,9 @@ If you have a website or a useful tool you'd like to add, contributions are welc
 
 | 分类 | 快速使用 | 在 GitHub 上编辑 |
 | :--- | :---: | :---: |
-| **AI** | [链接](https://search.hoothin.com/set/ai_zh.html) | [链接](https://github.com/hoothin/SearchJumperEngines/edit/main/AI/main_zh.json) |
-| **Image**| [链接](https://search.hoothin.com/set/img_zh.html) | [链接](https://github.com/hoothin/SearchJumperEngines/edit/main/Image/main_zh.json) |
-| **Misc** | [链接](https://search.hoothin.com/set/misc_zh.html) | [链接](https://github.com/hoothin/SearchJumperEngines/edit/main/Misc/main_zh.json) |
+| **AI** | [链接](https://search.hoothin.com/set/ai_zh.html) | [链接](https://github.com/hoothin/SearchJumperEngines/edit/main/ai/main_zh.json) |
+| **Image**| [链接](https://search.hoothin.com/set/img_zh.html) | [链接](https://github.com/hoothin/SearchJumperEngines/edit/main/image/main_zh.json) |
+| **Misc** | [链接](https://search.hoothin.com/set/misc_zh.html) | [链接](https://github.com/hoothin/SearchJumperEngines/edit/main/misc/main_zh.json) |
 | **Single**| [浏览文件夹](Single/)| — |
 
 #### 使用说明
@@ -68,7 +68,7 @@ If you have a website or a useful tool you'd like to add, contributions are welc
 ---
 <a name="traditional-chinese"></a>
 
-# 搜尋醬引擎合輯
+# [搜尋醬引擎合輯](https://search.hoothin.com/set/tw)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
@@ -78,9 +78,9 @@ If you have a website or a useful tool you'd like to add, contributions are welc
 
 | 分類 | 快速使用 | 在 GitHub 上編輯 |
 | :--- | :---: | :---: |
-| **AI** | [連結](https://search.hoothin.com/set/ai_tw.html) | [連結](https://github.com/hoothin/SearchJumperEngines/edit/main/AI/main_tw.json) |
-| **Image**| [連結](https://search.hoothin.com/set/img_tw.html) | [連結](https://github.com/hoothin/SearchJumperEngines/edit/main/Image/main_tw.json) |
-| **Misc** | [連結](https://search.hoothin.com/set/misc_tw.html) | [連結](https://github.com/hoothin/SearchJumperEngines/edit/main/Misc/main_tw.json) |
+| **AI** | [連結](https://search.hoothin.com/set/ai_tw.html) | [連結](https://github.com/hoothin/SearchJumperEngines/edit/main/ai/main_tw.json) |
+| **Image**| [連結](https://search.hoothin.com/set/img_tw.html) | [連結](https://github.com/hoothin/SearchJumperEngines/edit/main/image/main_tw.json) |
+| **Misc** | [連結](https://search.hoothin.com/set/misc_tw.html) | [連結](https://github.com/hoothin/SearchJumperEngines/edit/main/misc/main_tw.json) |
 | **Single**| [瀏覽資料夾](Single/)| — |
 
 #### 使用說明
